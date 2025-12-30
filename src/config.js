@@ -8,4 +8,6 @@ export { mongodb_uri };
 
 const frontend_uri = process.env.FRONTEND_URI;
 
+console.log("FRONTEND URI : ", frontend_uri)
+
 export { frontend_uri }

@@ -6,12 +6,9 @@ import cors from "cors";
 import { frontend_uri } from "./config.js";
 
 const app = e();
+app.use(cors());
 
-app.use(
-  cors({
-    origin: [frontend_uri],
-  })
-);
+console.log("FRONTEND URI : ", frontend_uri)
 
 const PORT = 4000;
 
