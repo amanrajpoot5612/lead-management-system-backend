@@ -7,11 +7,7 @@ import { frontend_uri } from "./config.js";
 
 const app = e();
 
-app.use(
-  cors({
-    origin: [frontend_uri],
-  })
-);
+app.use(cors());
 
 console.log("FRONTEND URI : ", frontend_uri)
 
