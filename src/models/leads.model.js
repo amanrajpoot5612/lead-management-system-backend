@@ -72,7 +72,6 @@ const LeadSchema = new mongoose.Schema(
       utm_source: String,
       ipAddress: String,
     },
-
     message: {
       type: String,
       trim: true,
