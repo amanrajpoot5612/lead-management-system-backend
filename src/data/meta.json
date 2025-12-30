@@ -1,0 +1,4302 @@
+[
+  {
+    "id": "META-LEAD-001",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-57888",
+      "name": "Ergonomic Campaign",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Edith Mraz",
+      "email": "gail_gibson90@gmail.com",
+      "phone": "+15119717341",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Cronin, Gerhold and Kirlin",
+      "role": "Regional Response Representative",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 33,
+    "metaData": {
+      "formId": "FORM-47017",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "8.233.95.60"
+    },
+    "timeline": {
+      "createdAt": "2025-08-20T20:37:41.934Z",
+      "lastContactedAt": "2025-09-19T01:05:57.054Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-002",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-27573",
+      "name": "Recycled Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Joy Wilkinson",
+      "email": "trudie15@hotmail.com",
+      "phone": "+13934973130",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Mante and Sons",
+      "role": "Internal Communications Executive",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 76,
+    "metaData": {
+      "formId": "FORM-42382",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "167.254.79.111"
+    },
+    "timeline": {
+      "createdAt": "2025-11-07T15:56:07.610Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-003",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-86360",
+      "name": "Soft Promo",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Vicky Hermiston",
+      "email": "edythe45@yahoo.com",
+      "phone": "+14687826224",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Lindgren - Jerde",
+      "role": "Lead Response Analyst",
+      "industry": "Software"
+    },
+    "leadStatus": "New",
+    "leadScore": 41,
+    "metaData": {
+      "formId": "FORM-42543",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "a5ca:ab7a:16eb:ab33:8cf0:d1d6:fdce:9edc"
+    },
+    "timeline": {
+      "createdAt": "2024-06-27T07:09:51.359Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-004",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-92883",
+      "name": "Fresh Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Pauline Cassin-Herman",
+      "email": "stacey13@yahoo.com",
+      "phone": "+14248845353",
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Nienow - Stracke",
+      "role": "Regional Intranet Designer",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 78,
+    "metaData": {
+      "formId": "FORM-48890",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "2713:c4ba:f22c:036a:b791:87b4:5a5c:9845"
+    },
+    "timeline": {
+      "createdAt": "2023-01-02T13:30:07.901Z",
+      "lastContactedAt": "2024-07-16T13:01:19.379Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-005",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-89104",
+      "name": "Tasty Promo",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Zachary Denesik V",
+      "email": "ulises44@yahoo.com",
+      "phone": "+17486670832",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Deckow Group",
+      "role": "Global Creative Facilitator",
+      "industry": "Finance"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 34,
+    "metaData": {
+      "formId": "FORM-46592",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "152c:bd9a:bcd5:aabd:89cf:5e61:29a0:8796"
+    },
+    "timeline": {
+      "createdAt": "2025-12-12T00:21:54.047Z",
+      "lastContactedAt": "2025-12-22T04:04:22.781Z",
+      "convertedAt": "2025-12-27T08:35:39.292Z"
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-006",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-97191",
+      "name": "Awesome Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Jessie Mayert",
+      "email": "etha_shields15@gmail.com",
+      "phone": "+15136120683",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Hammes - Bode",
+      "role": "Global Markets Director",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 49,
+    "metaData": {
+      "formId": "FORM-41429",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "daff:ddcc:5fab:18e1:981f:8e87:f13b:c3ad"
+    },
+    "timeline": {
+      "createdAt": "2023-05-29T02:21:24.464Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-007",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-19550",
+      "name": "Handmade Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Roy Rice",
+      "email": "adah_hahn-heaney3@hotmail.com",
+      "phone": "+15306809546",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Klocko Inc",
+      "role": "Corporate Group Orchestrator",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 91,
+    "metaData": {
+      "formId": "FORM-46658",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "9.249.35.212"
+    },
+    "timeline": {
+      "createdAt": "2023-08-21T04:29:31.502Z",
+      "lastContactedAt": "2025-04-27T04:09:13.672Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-008",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-53571",
+      "name": "Fantastic Launch",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Sophia Runolfsson",
+      "email": "allen_mayer@hotmail.com",
+      "phone": "+13998227698",
+      "city": "Austin",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Schiller, Hauck and Hartmann",
+      "role": "Central Mobility Producer",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 32,
+    "metaData": {
+      "formId": "FORM-42963",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "2fe2:cc7f:99fb:08b6:fa0b:49f3:8dfb:8c6f"
+    },
+    "timeline": {
+      "createdAt": "2024-04-16T16:30:07.583Z",
+      "lastContactedAt": "2025-03-22T13:22:43.633Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-009",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-95353",
+      "name": "Modern Launch",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Vanessa Kautzer",
+      "email": "hilda.leannon69@hotmail.com",
+      "phone": "+13892429224",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Bashirian, Stiedemann and Mitchell",
+      "role": "Chief Web Specialist",
+      "industry": "Software"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 49,
+    "metaData": {
+      "formId": "FORM-48114",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "232.190.144.63"
+    },
+    "timeline": {
+      "createdAt": "2025-11-09T20:55:51.467Z",
+      "lastContactedAt": "2025-12-13T09:08:24.136Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-010",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-83277",
+      "name": "Luxurious Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Susie Little",
+      "email": "felicita_strosin@gmail.com",
+      "phone": "+19559454732",
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Weissnat - Langworth",
+      "role": "Future Identity Administrator",
+      "industry": "Education"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 36,
+    "metaData": {
+      "formId": "FORM-48971",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "e8ec:33e1:d6ad:e95e:bb60:4ce5:d70c:a50d"
+    },
+    "timeline": {
+      "createdAt": "2025-05-27T22:59:30.365Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-011",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-48106",
+      "name": "Fresh Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Wade Miller MD",
+      "email": "brody89@hotmail.com",
+      "phone": "+15826371689",
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Koelpin Inc",
+      "role": "Global Directives Designer",
+      "industry": "Education"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 49,
+    "metaData": {
+      "formId": "FORM-46098",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "6bf1:c236:fd6b:aa11:ddcb:a3ba:86b6:e550"
+    },
+    "timeline": {
+      "createdAt": "2023-12-12T19:32:28.094Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-012",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-28657",
+      "name": "Refined Promo",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Craig Stokes",
+      "email": "vicky_senger@yahoo.com",
+      "phone": "+15115161526",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "O'Conner, Strosin and Maggio",
+      "role": "Forward Mobility Analyst",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 53,
+    "metaData": {
+      "formId": "FORM-49999",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "170.107.65.183"
+    },
+    "timeline": {
+      "createdAt": "2025-02-10T20:01:33.911Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-013",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-73260",
+      "name": "Soft Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Darin Dach",
+      "email": "cyril44@yahoo.com",
+      "phone": "+18612005558",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Ortiz, Kerluke and Jakubowski",
+      "role": "Dynamic Security Facilitator",
+      "industry": "Education"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 93,
+    "metaData": {
+      "formId": "FORM-43231",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "138.201.109.221"
+    },
+    "timeline": {
+      "createdAt": "2024-12-09T12:13:03.190Z",
+      "lastContactedAt": "2025-07-07T03:03:09.350Z",
+      "convertedAt": "2025-10-06T09:06:48.589Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-014",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-75599",
+      "name": "Handmade Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Lillian Schaden",
+      "email": "taryn92@hotmail.com",
+      "phone": "+18574168332",
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Nikolaus, Rutherford and Kemmer",
+      "role": "District Branding Administrator",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 75,
+    "metaData": {
+      "formId": "FORM-43555",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "cd6e:060a:2db8:c27f:e186:aad6:bfc1:9d02"
+    },
+    "timeline": {
+      "createdAt": "2024-05-23T04:13:48.634Z",
+      "lastContactedAt": "2024-12-18T08:40:07.719Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-015",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-34073",
+      "name": "Intelligent Campaign",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Eula Abshire",
+      "email": "jeffry.mann0@hotmail.com",
+      "phone": "+19047979660",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Goldner, Pfeffer and Wuckert",
+      "role": "Direct Solutions Officer",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 37,
+    "metaData": {
+      "formId": "FORM-49117",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "e1a4:db6d:6f2e:f50e:a96c:77df:4bf6:fd2b"
+    },
+    "timeline": {
+      "createdAt": "2025-10-27T02:47:13.269Z",
+      "lastContactedAt": "2025-11-02T22:05:20.820Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-016",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-67361",
+      "name": "Intelligent Campaign",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Jake Brown Jr.",
+      "email": "christophe_hammes@gmail.com",
+      "phone": "+17954697374",
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Kling, Schroeder and Hahn",
+      "role": "Internal Accountability Agent",
+      "industry": "Finance"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 15,
+    "metaData": {
+      "formId": "FORM-41428",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "6c1f:b4d9:b14c:f8bf:d0ef:f4a6:bf78:af6a"
+    },
+    "timeline": {
+      "createdAt": "2025-03-27T20:23:01.468Z",
+      "lastContactedAt": "2025-12-11T13:55:13.995Z",
+      "convertedAt": "2025-06-05T01:49:19.990Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-017",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-88312",
+      "name": "Small Launch",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Harold Lueilwitz",
+      "email": "verner_bernhard@hotmail.com",
+      "phone": "+17952931483",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Wolff LLC",
+      "role": "Chief Division Architect",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 93,
+    "metaData": {
+      "formId": "FORM-47876",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "d55c:b86b:9cae:c02e:ab90:af39:c62e:1f2e"
+    },
+    "timeline": {
+      "createdAt": "2025-11-08T03:30:04.553Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-018",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-10076",
+      "name": "Generic Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Marion Champlin",
+      "email": "lavada19@yahoo.com",
+      "phone": "+12026619120",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "O'Keefe - Moen",
+      "role": "Principal Markets Producer",
+      "industry": "Education"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 85,
+    "metaData": {
+      "formId": "FORM-49155",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "90.150.254.127"
+    },
+    "timeline": {
+      "createdAt": "2025-08-18T06:32:42.342Z",
+      "lastContactedAt": "2025-12-22T09:33:38.360Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-019",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-28432",
+      "name": "Gorgeous Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Mrs. Winifred Dietrich",
+      "email": "marcelo_swaniawski74@yahoo.com",
+      "phone": "+16415745286",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "DuBuque, Gerlach and Stehr",
+      "role": "Customer Creative Associate",
+      "industry": "Education"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 48,
+    "metaData": {
+      "formId": "FORM-42123",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "f7fe:f01e:c3c7:bd38:be1a:3a36:5c1f:8e57"
+    },
+    "timeline": {
+      "createdAt": "2024-02-29T19:17:18.540Z",
+      "lastContactedAt": "2024-09-10T11:50:18.211Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-020",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-58321",
+      "name": "Soft Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Miss Mindy Wehner",
+      "email": "buck.purdy0@gmail.com",
+      "phone": "+16182218719",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Denesik, Hodkiewicz and Tremblay",
+      "role": "Customer Security Assistant",
+      "industry": "Education"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 14,
+    "metaData": {
+      "formId": "FORM-48061",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "4da6:0027:5530:0ecc:1c5b:fb1c:4e93:beca"
+    },
+    "timeline": {
+      "createdAt": "2024-01-05T21:19:23.678Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-021",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-95487",
+      "name": "Tasty Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Opal West",
+      "email": "rhett53@hotmail.com",
+      "phone": "+17336699483",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Toy, Pfannerstill and Towne",
+      "role": "Global Division Associate",
+      "industry": "Education"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 27,
+    "metaData": {
+      "formId": "FORM-44480",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "168.153.157.52"
+    },
+    "timeline": {
+      "createdAt": "2023-03-24T19:22:07.808Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-022",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-32925",
+      "name": "Intelligent Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Richard Nader",
+      "email": "christelle.macejkovic8@gmail.com",
+      "phone": "+15856262311",
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Witting - Goodwin",
+      "role": "Chief Paradigm Liaison",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 53,
+    "metaData": {
+      "formId": "FORM-45057",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "03f0:4ffd:17fc:6eee:5be1:d055:09a7:fa7d"
+    },
+    "timeline": {
+      "createdAt": "2025-03-18T13:59:42.028Z",
+      "lastContactedAt": "2025-09-06T09:48:47.309Z",
+      "convertedAt": "2025-06-05T09:04:58.860Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-023",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-56077",
+      "name": "Frozen Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Shirley Schowalter",
+      "email": "mayra70@hotmail.com",
+      "phone": "+17059271012",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Kutch - Schmidt",
+      "role": "Customer Branding Facilitator",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 44,
+    "metaData": {
+      "formId": "FORM-49059",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "4fc0:e5ab:a834:0244:2d21:e20d:f6af:c2ff"
+    },
+    "timeline": {
+      "createdAt": "2023-12-12T12:29:03.901Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-024",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-83594",
+      "name": "Sleek Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Timmy Schulist",
+      "email": "jeremie.kozey38@gmail.com",
+      "phone": "+19963433399",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Welch, Rutherford and Heidenreich",
+      "role": "Regional Data Technician",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 64,
+    "metaData": {
+      "formId": "FORM-43086",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "245.179.201.61"
+    },
+    "timeline": {
+      "createdAt": "2025-09-30T17:01:24.202Z",
+      "lastContactedAt": "2025-12-13T19:43:59.147Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-025",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-67349",
+      "name": "Unbranded Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Miss Beatrice Farrell",
+      "email": "dixie.lehner@hotmail.com",
+      "phone": "+18607618843",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Smitham LLC",
+      "role": "Product Metrics Executive",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 55,
+    "metaData": {
+      "formId": "FORM-42126",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "d6f0:21db:6dfa:cf5d:36af:ab98:a2a0:416c"
+    },
+    "timeline": {
+      "createdAt": "2023-05-20T02:04:30.890Z",
+      "lastContactedAt": "2024-04-27T18:44:25.506Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-026",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-22709",
+      "name": "Incredible Launch",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Gina Predovic",
+      "email": "lelah.becker@yahoo.com",
+      "phone": "+16926408481",
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Reilly - Jast",
+      "role": "Forward Quality Architect",
+      "industry": "Education"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 47,
+    "metaData": {
+      "formId": "FORM-42162",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "111d:c7c0:abcb:94ae:d4c3:3f37:1cf8:abfb"
+    },
+    "timeline": {
+      "createdAt": "2023-06-05T13:46:45.725Z",
+      "lastContactedAt": "2024-05-01T15:13:05.558Z",
+      "convertedAt": "2024-12-22T17:17:10.781Z"
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-027",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-29705",
+      "name": "Handmade Promo",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Andrea Raynor",
+      "email": "christop3@hotmail.com",
+      "phone": "+13944224779",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Sipes, Roob and Schneider",
+      "role": "District Response Designer",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 53,
+    "metaData": {
+      "formId": "FORM-46804",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "2d8c:e5c8:1d5d:06d5:14bf:d2b1:e079:cb83"
+    },
+    "timeline": {
+      "createdAt": "2024-10-27T14:38:55.548Z",
+      "lastContactedAt": null,
+      "convertedAt": "2025-09-17T00:00:11.815Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-028",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-90208",
+      "name": "Gorgeous Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Leland Zieme",
+      "email": "vernice.goyette55@gmail.com",
+      "phone": "+13852917162",
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Kessler, Zemlak and Mills",
+      "role": "Product Intranet Liaison",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 33,
+    "metaData": {
+      "formId": "FORM-40339",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "248.70.178.198"
+    },
+    "timeline": {
+      "createdAt": "2024-04-28T09:04:11.654Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-029",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-33881",
+      "name": "Gorgeous Campaign",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Johanna Streich",
+      "email": "augustine.lesch84@yahoo.com",
+      "phone": "+15024082608",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Weimann - Watsica",
+      "role": "Chief Paradigm Designer",
+      "industry": "Finance"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 52,
+    "metaData": {
+      "formId": "FORM-48962",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "0c38:d563:9851:de44:0edd:86c6:8f68:d44e"
+    },
+    "timeline": {
+      "createdAt": "2024-04-25T00:16:35.162Z",
+      "lastContactedAt": "2025-06-16T20:18:27.936Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-030",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-35486",
+      "name": "Rustic Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Sammy Nolan-Nitzsche",
+      "email": "jerad.huel66@gmail.com",
+      "phone": "+17349850892",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Dare - Corwin",
+      "role": "Forward Functionality Manager",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 56,
+    "metaData": {
+      "formId": "FORM-48481",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "db05:a310:da29:cb33:5ef2:70ae:14e9:2ee4"
+    },
+    "timeline": {
+      "createdAt": "2023-04-04T12:03:51.618Z",
+      "lastContactedAt": "2024-07-29T16:31:24.813Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-031",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-68329",
+      "name": "Practical Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Ms. Cathy Welch",
+      "email": "emmitt80@gmail.com",
+      "phone": "+12402420643",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Gusikowski Inc",
+      "role": "Future Marketing Supervisor",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 95,
+    "metaData": {
+      "formId": "FORM-47682",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "2d4e:69e2:2d1c:3fa9:ccd5:b32a:33da:3f38"
+    },
+    "timeline": {
+      "createdAt": "2023-09-03T13:42:53.188Z",
+      "lastContactedAt": "2024-09-02T19:29:02.006Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-032",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-56957",
+      "name": "Elegant Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Marta O'Reilly",
+      "email": "kameron.thompson-littel@gmail.com",
+      "phone": "+18656114476",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "McClure, Streich and Ebert",
+      "role": "Customer Infrastructure Coordinator",
+      "industry": "Education"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 95,
+    "metaData": {
+      "formId": "FORM-48947",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "170.182.177.162"
+    },
+    "timeline": {
+      "createdAt": "2024-04-01T04:09:43.000Z",
+      "lastContactedAt": "2025-07-05T03:50:18.081Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-033",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-37101",
+      "name": "Bespoke Promo",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Phyllis Senger",
+      "email": "malinda99@hotmail.com",
+      "phone": "+12699100689",
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Metz, Klocko and Zieme",
+      "role": "Senior Infrastructure Representative",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 82,
+    "metaData": {
+      "formId": "FORM-43329",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "217.137.197.8"
+    },
+    "timeline": {
+      "createdAt": "2025-06-26T01:59:36.349Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-034",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-34176",
+      "name": "Refined Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Kelvin Keebler PhD",
+      "email": "adolph_corwin60@yahoo.com",
+      "phone": "+13763862399",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Schmeler, Murphy and McCullough",
+      "role": "Future Identity Assistant",
+      "industry": "Software"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 41,
+    "metaData": {
+      "formId": "FORM-44977",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "83.97.96.109"
+    },
+    "timeline": {
+      "createdAt": "2023-12-24T02:32:47.348Z",
+      "lastContactedAt": "2024-03-26T12:39:55.923Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-035",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-80625",
+      "name": "Elegant Launch",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Charles Dooley",
+      "email": "cary87@hotmail.com",
+      "phone": "+15273192563",
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Champlin, Maggio and Lesch",
+      "role": "Forward Infrastructure Officer",
+      "industry": "Finance"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 77,
+    "metaData": {
+      "formId": "FORM-43322",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "53.121.140.181"
+    },
+    "timeline": {
+      "createdAt": "2024-09-17T09:30:51.053Z",
+      "lastContactedAt": "2025-11-18T22:42:16.774Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-036",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-21589",
+      "name": "Small Promo",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Jana Dare DVM",
+      "email": "albin.krajcik15@yahoo.com",
+      "phone": "+19889943827",
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Ebert Inc",
+      "role": "District Response Coordinator",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 93,
+    "metaData": {
+      "formId": "FORM-42732",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "4a1f:755f:f81d:963b:e8b0:c0c8:06b4:6cd6"
+    },
+    "timeline": {
+      "createdAt": "2024-07-03T09:15:32.176Z",
+      "lastContactedAt": "2024-12-28T04:03:10.548Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-037",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-16630",
+      "name": "Frozen Promo",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Paula Metz",
+      "email": "hyman_gerlach3@yahoo.com",
+      "phone": "+16467683765",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Tremblay - Dietrich",
+      "role": "Forward Accountability Orchestrator",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 35,
+    "metaData": {
+      "formId": "FORM-47952",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "a9d1:0a7d:a334:6dc2:c1de:eaea:a7b7:9c0a"
+    },
+    "timeline": {
+      "createdAt": "2023-01-23T19:14:35.207Z",
+      "lastContactedAt": "2024-02-21T11:16:04.770Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-038",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-28104",
+      "name": "Incredible Promo",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Danny Daugherty",
+      "email": "ena_hansen66@yahoo.com",
+      "phone": "+16197588058",
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Kassulke LLC",
+      "role": "Direct Directives Planner",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "New",
+    "leadScore": 73,
+    "metaData": {
+      "formId": "FORM-42160",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "113.230.215.58"
+    },
+    "timeline": {
+      "createdAt": "2024-11-24T01:22:04.591Z",
+      "lastContactedAt": "2025-04-03T14:55:29.346Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-039",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-96639",
+      "name": "Generic Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Ginger O'Keefe",
+      "email": "catherine.white@gmail.com",
+      "phone": "+13906444042",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "O'Keefe - Willms",
+      "role": "Senior Functionality Director",
+      "industry": "Finance"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 48,
+    "metaData": {
+      "formId": "FORM-41496",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "238.192.166.112"
+    },
+    "timeline": {
+      "createdAt": "2025-08-16T02:27:30.488Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-040",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-66884",
+      "name": "Tasty Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Edwin Huel",
+      "email": "ona.hauck61@hotmail.com",
+      "phone": "+13185018096",
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Herman, Dare and Vandervort",
+      "role": "Investor Brand Agent",
+      "industry": "Finance"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 66,
+    "metaData": {
+      "formId": "FORM-46397",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "a718:260d:3a5f:abb1:adf2:a91d:fc8c:cfdf"
+    },
+    "timeline": {
+      "createdAt": "2023-08-07T15:38:17.546Z",
+      "lastContactedAt": "2025-04-07T16:43:59.758Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-041",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-33859",
+      "name": "Frozen Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Vernon Hermiston",
+      "email": "herbert.anderson97@hotmail.com",
+      "phone": "+16597883164",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Ziemann - Towne",
+      "role": "International Mobility Architect",
+      "industry": "Software"
+    },
+    "leadStatus": "New",
+    "leadScore": 38,
+    "metaData": {
+      "formId": "FORM-43372",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "216.57.42.46"
+    },
+    "timeline": {
+      "createdAt": "2023-09-29T03:55:04.070Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-042",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-61907",
+      "name": "Recycled Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Ken Effertz",
+      "email": "gwendolyn85@yahoo.com",
+      "phone": "+19807635310",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Jakubowski, Lowe and Rosenbaum",
+      "role": "Product Intranet Producer",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 80,
+    "metaData": {
+      "formId": "FORM-45020",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "145e:9d01:ec4c:abdf:c8c2:e0d5:7a91:b6b7"
+    },
+    "timeline": {
+      "createdAt": "2023-08-28T13:36:20.217Z",
+      "lastContactedAt": "2025-01-12T12:34:00.597Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-043",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-40071",
+      "name": "Modern Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Jared Cremin",
+      "email": "walton_armstrong19@gmail.com",
+      "phone": "+13385125925",
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Ernser, Donnelly and Terry",
+      "role": "Customer Web Supervisor",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 35,
+    "metaData": {
+      "formId": "FORM-40679",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "d9f4:e4be:4898:fe3f:4ac8:26a1:080b:dcff"
+    },
+    "timeline": {
+      "createdAt": "2023-11-17T16:25:33.467Z",
+      "lastContactedAt": "2025-09-02T14:01:56.988Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-044",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-98193",
+      "name": "Awesome Campaign",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Alicia Padberg",
+      "email": "leopold_powlowski51@hotmail.com",
+      "phone": "+16753653263",
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Ondricka, Ratke and Bartell",
+      "role": "International Metrics Supervisor",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 76,
+    "metaData": {
+      "formId": "FORM-46877",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "e2b6:321a:da95:be5f:0a8e:f587:af1d:8f7e"
+    },
+    "timeline": {
+      "createdAt": "2025-09-12T07:16:32.956Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-045",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-94655",
+      "name": "Fresh Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Shawn Lynch",
+      "email": "zion92@hotmail.com",
+      "phone": "+16277061884",
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Gislason, Bode and Swift",
+      "role": "Product Solutions Associate",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 44,
+    "metaData": {
+      "formId": "FORM-41945",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "553f:3e9d:ade9:cdcf:a0d5:5ebc:cf69:a3aa"
+    },
+    "timeline": {
+      "createdAt": "2025-11-21T21:17:02.513Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-046",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-26278",
+      "name": "Refined Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Javier Kunde",
+      "email": "malinda11@hotmail.com",
+      "phone": "+18825601925",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Lebsack, Moore and Lockman",
+      "role": "Global Response Representative",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "New",
+    "leadScore": 56,
+    "metaData": {
+      "formId": "FORM-48789",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "188.106.24.123"
+    },
+    "timeline": {
+      "createdAt": "2024-01-02T00:01:40.143Z",
+      "lastContactedAt": "2024-05-11T14:08:16.450Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-047",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-48274",
+      "name": "Frozen Promo",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Leslie Lubowitz",
+      "email": "isidro_ernser@yahoo.com",
+      "phone": "+15045509525",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Bartoletti, Senger and Kling",
+      "role": "Lead Infrastructure Associate",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 31,
+    "metaData": {
+      "formId": "FORM-42056",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "c5cc:ca3b:7b12:e5b6:d1c9:e07e:ab5d:4fee"
+    },
+    "timeline": {
+      "createdAt": "2024-09-30T01:31:27.448Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-048",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-27256",
+      "name": "Practical Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Arthur Bauch",
+      "email": "destiney.ritchie14@yahoo.com",
+      "phone": "+16947213218",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Balistreri - Hahn",
+      "role": "Future Assurance Coordinator",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 16,
+    "metaData": {
+      "formId": "FORM-47389",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "4952:fc1f:1e00:d8fb:ba95:0cd5:b17c:cbf4"
+    },
+    "timeline": {
+      "createdAt": "2023-02-17T06:08:04.217Z",
+      "lastContactedAt": "2023-10-28T10:21:57.123Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-049",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-51551",
+      "name": "Soft Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Neil Kuphal",
+      "email": "cicero.cole@yahoo.com",
+      "phone": "+17682477127",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Jenkins and Sons",
+      "role": "Regional Division Analyst",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 93,
+    "metaData": {
+      "formId": "FORM-40765",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "214.184.129.22"
+    },
+    "timeline": {
+      "createdAt": "2025-03-27T12:45:01.409Z",
+      "lastContactedAt": "2025-07-31T12:04:09.523Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-050",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-82701",
+      "name": "Gorgeous Launch",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Laura Price",
+      "email": "vivienne28@hotmail.com",
+      "phone": "+14347804095",
+      "city": "Austin",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Tremblay, Ankunding and Abbott",
+      "role": "Chief Accountability Engineer",
+      "industry": "Software"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 72,
+    "metaData": {
+      "formId": "FORM-42202",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "4cf5:bbfd:1b92:6caa:77fd:2d41:d34c:6e61"
+    },
+    "timeline": {
+      "createdAt": "2025-09-16T04:58:12.689Z",
+      "lastContactedAt": "2025-11-27T12:41:21.480Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-051",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-28247",
+      "name": "Awesome Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Barry Robel",
+      "email": "cheyanne.roob21@gmail.com",
+      "phone": "+13887141619",
+      "city": "Austin",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Koch and Sons",
+      "role": "Chief Web Facilitator",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 66,
+    "metaData": {
+      "formId": "FORM-49466",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "a47d:fb29:ddf2:6d71:f9ff:8ee8:d162:d9dc"
+    },
+    "timeline": {
+      "createdAt": "2024-05-31T15:12:50.060Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-052",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-32531",
+      "name": "Recycled Launch",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Mildred Bernier",
+      "email": "thad.davis61@gmail.com",
+      "phone": "+16584935877",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Harber - Grimes",
+      "role": "Dynamic Directives Analyst",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 89,
+    "metaData": {
+      "formId": "FORM-46020",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "199.248.251.251"
+    },
+    "timeline": {
+      "createdAt": "2023-09-26T15:30:09.473Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-053",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-54760",
+      "name": "Refined Launch",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Rolando Grady V",
+      "email": "lazaro_douglas@yahoo.com",
+      "phone": "+16018224444",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Yost and Sons",
+      "role": "Product Factors Orchestrator",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 21,
+    "metaData": {
+      "formId": "FORM-49319",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "16bd:26ef:f644:a001:ae61:cea6:44ce:7c72"
+    },
+    "timeline": {
+      "createdAt": "2025-10-31T04:16:20.461Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-054",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-19648",
+      "name": "Sleek Campaign",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Hubert Pacocha",
+      "email": "juanita.cartwright13@hotmail.com",
+      "phone": "+19416070581",
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Fahey - Kutch",
+      "role": "National Accountability Agent",
+      "industry": "Finance"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 38,
+    "metaData": {
+      "formId": "FORM-43315",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "efb3:afad:8cdf:fa21:d31b:d97b:cccb:56eb"
+    },
+    "timeline": {
+      "createdAt": "2023-11-20T02:51:36.429Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-055",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-47975",
+      "name": "Recycled Campaign",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Shirley Ziemann",
+      "email": "dora_robel@gmail.com",
+      "phone": "+17223558831",
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Grant and Sons",
+      "role": "Internal Intranet Analyst",
+      "industry": "Education"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 12,
+    "metaData": {
+      "formId": "FORM-43894",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "c413:9ca3:4e08:3ddf:44ee:b807:5a8f:9cc8"
+    },
+    "timeline": {
+      "createdAt": "2024-02-09T16:50:24.274Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-056",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-16694",
+      "name": "Oriental Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Luz Nitzsche",
+      "email": "cristal_purdy3@gmail.com",
+      "phone": "+13478001989",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Greenholt Group",
+      "role": "Future Identity Agent",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 53,
+    "metaData": {
+      "formId": "FORM-40115",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "3633:ff16:be48:36ea:8837:6f72:3ac4:762f"
+    },
+    "timeline": {
+      "createdAt": "2025-12-23T14:39:49.299Z",
+      "lastContactedAt": "2025-12-25T01:25:47.201Z",
+      "convertedAt": "2025-12-30T14:47:52.425Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-057",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-88724",
+      "name": "Recycled Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Curtis Torp MD",
+      "email": "hilbert5@hotmail.com",
+      "phone": "+16468304047",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Bruen LLC",
+      "role": "Product Configuration Specialist",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 46,
+    "metaData": {
+      "formId": "FORM-41226",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "ebcb:4a2f:5f72:f2e1:dc9d:aed3:bac5:a7ea"
+    },
+    "timeline": {
+      "createdAt": "2025-11-09T17:13:51.320Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-058",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-38596",
+      "name": "Frozen Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Clarence Wisozk-Hammes",
+      "email": "tia.lakin17@gmail.com",
+      "phone": "+19322578316",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Boehm, Lubowitz and Sanford",
+      "role": "Direct Implementation Coordinator",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 17,
+    "metaData": {
+      "formId": "FORM-46348",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "59.223.130.49"
+    },
+    "timeline": {
+      "createdAt": "2025-04-26T08:32:38.521Z",
+      "lastContactedAt": "2025-08-23T11:59:54.874Z",
+      "convertedAt": "2025-06-06T06:25:25.645Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-059",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-45732",
+      "name": "Recycled Promo",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Carla Rowe",
+      "email": "dallin.dooley@yahoo.com",
+      "phone": "+17184017768",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Erdman - Zemlak",
+      "role": "Forward Research Liaison",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 67,
+    "metaData": {
+      "formId": "FORM-45377",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "26.94.98.47"
+    },
+    "timeline": {
+      "createdAt": "2024-03-31T07:57:18.511Z",
+      "lastContactedAt": "2025-06-10T03:09:05.596Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-060",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-24108",
+      "name": "Frozen Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Rosa Weber-Schultz",
+      "email": "lesley46@gmail.com",
+      "phone": "+14383011376",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Schuster - Thompson",
+      "role": "Dynamic Intranet Assistant",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 40,
+    "metaData": {
+      "formId": "FORM-41120",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "144c:f4c3:ede6:fcbe:9d9c:0ef6:a443:4d84"
+    },
+    "timeline": {
+      "createdAt": "2023-09-06T12:41:14.300Z",
+      "lastContactedAt": "2024-01-13T12:31:34.910Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-061",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-90715",
+      "name": "Tasty Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Tricia Buckridge",
+      "email": "vernie_cassin10@gmail.com",
+      "phone": "+13047967128",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Little - Willms",
+      "role": "Customer Response Administrator",
+      "industry": "Education"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 84,
+    "metaData": {
+      "formId": "FORM-40878",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "97.211.248.85"
+    },
+    "timeline": {
+      "createdAt": "2025-01-04T11:28:55.766Z",
+      "lastContactedAt": "2025-12-16T10:36:02.194Z",
+      "convertedAt": "2025-04-17T15:33:35.535Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-062",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-83057",
+      "name": "Awesome Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Olivia Buckridge Jr.",
+      "email": "arden_farrell@gmail.com",
+      "phone": "+17292296308",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Lebsack, Nolan and Parker",
+      "role": "Chief Markets Associate",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 60,
+    "metaData": {
+      "formId": "FORM-45091",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "234.28.139.125"
+    },
+    "timeline": {
+      "createdAt": "2023-12-04T18:03:01.060Z",
+      "lastContactedAt": "2025-07-27T02:40:21.880Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-063",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-80447",
+      "name": "Luxurious Promo",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Al McClure",
+      "email": "royal.pfannerstill@gmail.com",
+      "phone": "+16743946443",
+      "city": "Austin",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Kilback - Powlowski",
+      "role": "Forward Division Engineer",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 45,
+    "metaData": {
+      "formId": "FORM-45896",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "a8cf:40bc:e792:ec5e:0f65:d43b:a144:a97c"
+    },
+    "timeline": {
+      "createdAt": "2023-04-18T10:52:37.476Z",
+      "lastContactedAt": "2024-01-04T08:53:11.161Z",
+      "convertedAt": "2023-07-02T04:19:23.538Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-064",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-65737",
+      "name": "Unbranded Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Gregg Reinger",
+      "email": "eliane_cartwright@yahoo.com",
+      "phone": "+16605497183",
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Mueller - Kris",
+      "role": "Global Assurance Planner",
+      "industry": "Software"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 28,
+    "metaData": {
+      "formId": "FORM-47452",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "18.218.197.29"
+    },
+    "timeline": {
+      "createdAt": "2025-04-24T15:42:36.975Z",
+      "lastContactedAt": "2025-06-06T09:44:18.450Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-065",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-22613",
+      "name": "Fresh Launch",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Guy Bernhard",
+      "email": "vicenta.bogan@yahoo.com",
+      "phone": "+18226082970",
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Hegmann, Ziemann and Nolan",
+      "role": "Senior Web Coordinator",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 95,
+    "metaData": {
+      "formId": "FORM-43871",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "5fc0:1deb:a40e:8659:f6cb:77de:c1e7:b81e"
+    },
+    "timeline": {
+      "createdAt": "2023-07-25T22:38:27.833Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-066",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-61489",
+      "name": "Soft Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Javier Beahan",
+      "email": "heather27@hotmail.com",
+      "phone": "+13192046344",
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Bradtke and Sons",
+      "role": "Central Group Manager",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 64,
+    "metaData": {
+      "formId": "FORM-45452",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "4d6a:aed3:d3b4:7540:b6eb:dff4:cfcb:a14c"
+    },
+    "timeline": {
+      "createdAt": "2025-08-04T10:20:37.140Z",
+      "lastContactedAt": null,
+      "convertedAt": "2025-11-19T21:27:45.494Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-067",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-81320",
+      "name": "Recycled Launch",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Ernest Effertz IV",
+      "email": "elva.wilkinson@yahoo.com",
+      "phone": "+13279633821",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Schowalter - Roob",
+      "role": "Central Division Executive",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 55,
+    "metaData": {
+      "formId": "FORM-44154",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "232.1.32.12"
+    },
+    "timeline": {
+      "createdAt": "2024-06-18T21:17:00.952Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-068",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-31720",
+      "name": "Refined Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Marty Beer",
+      "email": "sasha.olson@yahoo.com",
+      "phone": "+19419201791",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Kutch - Mann",
+      "role": "Lead Accountability Supervisor",
+      "industry": "Education"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 70,
+    "metaData": {
+      "formId": "FORM-42284",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "90.75.21.107"
+    },
+    "timeline": {
+      "createdAt": "2024-07-05T23:14:57.182Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-069",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-22652",
+      "name": "Fantastic Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Marcus Jaskolski",
+      "email": "zechariah_upton43@yahoo.com",
+      "phone": "+18465074768",
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Mueller Inc",
+      "role": "Global Branding Orchestrator",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 24,
+    "metaData": {
+      "formId": "FORM-49840",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "f7f3:eaa9:33f2:2f67:c3c6:06dc:38e9:51f8"
+    },
+    "timeline": {
+      "createdAt": "2023-03-20T22:36:51.924Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-070",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-25332",
+      "name": "Modern Campaign",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Derrick Weimann",
+      "email": "modesta_connelly34@gmail.com",
+      "phone": "+17024551361",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Larson - Lind",
+      "role": "Regional Marketing Planner",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 45,
+    "metaData": {
+      "formId": "FORM-46404",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "42.158.214.171"
+    },
+    "timeline": {
+      "createdAt": "2024-06-10T20:34:12.780Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-071",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-37433",
+      "name": "Bespoke Promo",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Trevor Boyer",
+      "email": "bud98@yahoo.com",
+      "phone": "+12296076393",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Koelpin - Johnson",
+      "role": "National Interactions Engineer",
+      "industry": "Finance"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 39,
+    "metaData": {
+      "formId": "FORM-49798",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "ff34:f825:daad:ce5f:c5ed:c9d4:9eef:4cf6"
+    },
+    "timeline": {
+      "createdAt": "2025-10-20T09:29:14.470Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-072",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-26626",
+      "name": "Practical Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Dr. John Pollich-Heller",
+      "email": "naomie_braun@gmail.com",
+      "phone": "+18397176325",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Wiegand LLC",
+      "role": "Legacy Data Specialist",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 63,
+    "metaData": {
+      "formId": "FORM-41735",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "7e7b:650a:ce59:dfa0:6fa7:2aae:aae1:6a56"
+    },
+    "timeline": {
+      "createdAt": "2025-04-12T10:22:08.434Z",
+      "lastContactedAt": null,
+      "convertedAt": "2025-06-01T17:52:08.554Z"
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-073",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-44653",
+      "name": "Frozen Campaign",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Jeanette Nader",
+      "email": "olaf.beatty83@hotmail.com",
+      "phone": "+19979021301",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Krajcik Inc",
+      "role": "Lead Configuration Executive",
+      "industry": "Education"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 73,
+    "metaData": {
+      "formId": "FORM-42199",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "faff:9ed7:14cc:e0fa:dcbe:c22a:fa7e:befe"
+    },
+    "timeline": {
+      "createdAt": "2024-12-30T23:31:25.843Z",
+      "lastContactedAt": "2025-07-18T00:04:56.361Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-074",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-41997",
+      "name": "Bespoke Launch",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Jesus Wiza MD",
+      "email": "faye_lowe9@gmail.com",
+      "phone": "+15426268729",
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Mosciski and Sons",
+      "role": "Human Optimization Executive",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 70,
+    "metaData": {
+      "formId": "FORM-41707",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "57.1.100.138"
+    },
+    "timeline": {
+      "createdAt": "2023-09-25T16:12:19.958Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-075",
+    "source": "Meta Ads",
+    "status": "cancellled",
+    "campaign": {
+      "id": "CMP-43393",
+      "name": "Rustic Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Cornelius Gorczany",
+      "email": "andres90@gmail.com",
+      "phone": "+17464765555",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Weimann - Lemke",
+      "role": "Direct Brand Engineer",
+      "industry": "Education"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 84,
+    "metaData": {
+      "formId": "FORM-47743",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "208.43.54.25"
+    },
+    "timeline": {
+      "createdAt": "2023-09-21T00:33:11.920Z",
+      "lastContactedAt": "2025-04-28T14:17:26.632Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-076",
+    "source": "Meta Ads",
+    "status": "cancellled",
+    "campaign": {
+      "id": "CMP-39197",
+      "name": "Rustic Promo",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Robin Fay DDS",
+      "email": "jeffrey23@hotmail.com",
+      "phone": "+15485753150",
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Fadel and Sons",
+      "role": "Forward Operations Facilitator",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 50,
+    "metaData": {
+      "formId": "FORM-43321",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "711d:2ffb:6dc6:cc78:7d56:f2f6:061d:9a37"
+    },
+    "timeline": {
+      "createdAt": "2025-10-06T23:10:07.336Z",
+      "lastContactedAt": "2025-12-11T20:17:19.191Z",
+      "convertedAt": "2025-12-11T08:23:59.435Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-077",
+    "source": "Meta Ads",
+    "status": "cancellled",
+    "campaign": {
+      "id": "CMP-60344",
+      "name": "Licensed Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Ruby Ruecker",
+      "email": "amelie_bosco@hotmail.com",
+      "phone": "+19885471360",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Carter, Rodriguez and Smith",
+      "role": "Human Security Developer",
+      "industry": "Software"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 36,
+    "metaData": {
+      "formId": "FORM-45590",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "12.157.235.208"
+    },
+    "timeline": {
+      "createdAt": "2024-11-29T07:15:24.717Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-078",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-70587",
+      "name": "Luxurious Promo",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Kelly Gleason",
+      "email": "kadin.thompson@hotmail.com",
+      "phone": "+16933850001",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Bartell Inc",
+      "role": "Customer Group Technician",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 95,
+    "metaData": {
+      "formId": "FORM-43267",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "18.150.83.135"
+    },
+    "timeline": {
+      "createdAt": "2025-12-19T05:37:43.980Z",
+      "lastContactedAt": "2025-12-30T13:18:14.977Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-079",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-78868",
+      "name": "Incredible Launch",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Bonnie Macejkovic",
+      "email": "sophie_rutherford19@gmail.com",
+      "phone": "+17315576070",
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Franecki Inc",
+      "role": "Customer Assurance Analyst",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 86,
+    "metaData": {
+      "formId": "FORM-41842",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "215.26.98.62"
+    },
+    "timeline": {
+      "createdAt": "2023-09-12T01:19:58.643Z",
+      "lastContactedAt": "2025-12-15T20:38:13.459Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-080",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-14335",
+      "name": "Recycled Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Jeff Tillman",
+      "email": "bulah47@yahoo.com",
+      "phone": "+12238040305",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Murray, Raynor and Grady",
+      "role": "Dynamic Research Liaison",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 84,
+    "metaData": {
+      "formId": "FORM-43959",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "a8b3:ddea:4ac6:c823:32e6:eabc:228b:3f3a"
+    },
+    "timeline": {
+      "createdAt": "2024-06-16T20:00:11.011Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-081",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-79799",
+      "name": "Fantastic Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Antonio Gottlieb",
+      "email": "daniella.moen59@yahoo.com",
+      "phone": "+17707178731",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Monahan LLC",
+      "role": "Principal Intranet Developer",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 84,
+    "metaData": {
+      "formId": "FORM-44981",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "35.232.188.40"
+    },
+    "timeline": {
+      "createdAt": "2025-07-21T01:39:35.436Z",
+      "lastContactedAt": "2025-09-10T09:57:02.491Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-082",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-22483",
+      "name": "Fresh Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Calvin Ward",
+      "email": "otto50@hotmail.com",
+      "phone": "+12405959645",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Schneider - Mann",
+      "role": "Corporate Creative Administrator",
+      "industry": "Education"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 68,
+    "metaData": {
+      "formId": "FORM-41325",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "23.207.238.104"
+    },
+    "timeline": {
+      "createdAt": "2023-04-26T23:52:19.081Z",
+      "lastContactedAt": "2024-07-17T20:58:33.990Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-083",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-49548",
+      "name": "Elegant Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Kerry Bednar",
+      "email": "hilario.gibson@gmail.com",
+      "phone": "+17039794351",
+      "city": "Austin",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Macejkovic Inc",
+      "role": "Direct Accounts Orchestrator",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 69,
+    "metaData": {
+      "formId": "FORM-40005",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "19.240.55.1"
+    },
+    "timeline": {
+      "createdAt": "2024-11-23T20:13:45.641Z",
+      "lastContactedAt": null,
+      "convertedAt": "2025-05-20T18:41:11.936Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-084",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-62407",
+      "name": "Ergonomic Campaign",
+      "adSet": "Age 18-45 | Germany",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Clifton Dibbert DVM",
+      "email": "willis_okon13@hotmail.com",
+      "phone": "+19684702106",
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    "businessInfo": {
+      "company": "Hettinger, Roob and Skiles",
+      "role": "Legacy Integration Supervisor",
+      "industry": "Finance"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 45,
+    "metaData": {
+      "formId": "FORM-40393",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "adc4:f5d6:e2dc:ad7c:dfde:c5cf:03ad:55ee"
+    },
+    "timeline": {
+      "createdAt": "2023-12-01T17:39:42.095Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-085",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-33440",
+      "name": "Rustic Promo",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Wendy Feil",
+      "email": "joany.pagac@gmail.com",
+      "phone": "+19515841867",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Renner - Swift",
+      "role": "Customer Quality Manager",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 78,
+    "metaData": {
+      "formId": "FORM-46913",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "46ea:6a95:d1c4:efb5:717e:c19b:d163:da3c"
+    },
+    "timeline": {
+      "createdAt": "2023-10-30T04:59:26.525Z",
+      "lastContactedAt": "2025-03-25T21:10:30.054Z",
+      "convertedAt": "2025-05-23T03:04:16.740Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-086",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-46282",
+      "name": "Generic Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Sandy Feil",
+      "email": "carlo.wiza@yahoo.com",
+      "phone": "+12922241423",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Kovacek and Sons",
+      "role": "Legacy Communications Officer",
+      "industry": "Software"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 42,
+    "metaData": {
+      "formId": "FORM-40137",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "4bab:4ba6:52c5:aaaf:eb5e:22ee:df68:4438"
+    },
+    "timeline": {
+      "createdAt": "2025-08-31T15:37:52.447Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-087",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-30126",
+      "name": "Oriental Promo",
+      "adSet": "Age 18-45 | India",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Alberto Powlowski-Weissnat",
+      "email": "bridie_gibson@hotmail.com",
+      "phone": "+17543488154",
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Wisoky Group",
+      "role": "Central Metrics Liaison",
+      "industry": "Education"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 93,
+    "metaData": {
+      "formId": "FORM-46030",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "38.150.77.232"
+    },
+    "timeline": {
+      "createdAt": "2024-03-23T22:31:57.003Z",
+      "lastContactedAt": "2024-05-27T15:04:09.387Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-088",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-45756",
+      "name": "Modern Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Randolph Zemlak",
+      "email": "savion.smith@hotmail.com",
+      "phone": "+18114112317",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Cremin, Upton and Fahey",
+      "role": "Direct Factors Representative",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 38,
+    "metaData": {
+      "formId": "FORM-46013",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "3b63:e7ab:fe1f:357e:b19b:dfcb:543b:fb8b"
+    },
+    "timeline": {
+      "createdAt": "2023-06-05T14:44:03.523Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-089",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-31986",
+      "name": "Recycled Promo",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Shelia Hane",
+      "email": "onie_dibbert@hotmail.com",
+      "phone": "+12092071111",
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Feeney, O'Conner and Schinner",
+      "role": "Corporate Directives Designer",
+      "industry": "Healthcare"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 80,
+    "metaData": {
+      "formId": "FORM-49325",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "c330:5ab4:ecee:e3d0:ddfd:a436:eb0d:88e3"
+    },
+    "timeline": {
+      "createdAt": "2025-03-18T18:29:33.976Z",
+      "lastContactedAt": "2025-04-04T01:24:46.084Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-090",
+    "source": "Meta Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "CMP-50354",
+      "name": "Intelligent Launch",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Jody Reichel",
+      "email": "broderick_bartoletti@gmail.com",
+      "phone": "+13257776748",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Haley Group",
+      "role": "Lead Web Executive",
+      "industry": "Education"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 13,
+    "metaData": {
+      "formId": "FORM-45384",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "3ea9:5d45:adb8:c6aa:a10a:0cce:ee8c:1133"
+    },
+    "timeline": {
+      "createdAt": "2023-11-21T19:04:45.677Z",
+      "lastContactedAt": "2023-12-29T12:30:43.446Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-091",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-59422",
+      "name": "Fantastic Promo",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Mathew Stroman",
+      "email": "jazlyn.roob44@gmail.com",
+      "phone": "+16052231711",
+      "city": "Austin",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Cremin - Reichel",
+      "role": "Future Security Engineer",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 69,
+    "metaData": {
+      "formId": "FORM-44843",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "27.42.37.100"
+    },
+    "timeline": {
+      "createdAt": "2024-12-27T13:24:46.937Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-092",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-70292",
+      "name": "Gorgeous Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Mitchell Jakubowski",
+      "email": "robb36@gmail.com",
+      "phone": "+19033667001",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Runolfsdottir, Lakin and Cormier",
+      "role": "Direct Accountability Associate",
+      "industry": "Software"
+    },
+    "leadStatus": "Contacted",
+    "leadScore": 13,
+    "metaData": {
+      "formId": "FORM-47346",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "23d7:c8dd:6ebf:b9c3:62eb:bc36:ae16:bd56"
+    },
+    "timeline": {
+      "createdAt": "2024-04-12T15:45:29.781Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-093",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-12722",
+      "name": "Handmade Campaign",
+      "adSet": "Age 18-45 | UK",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Karen Wintheiser",
+      "email": "kitty.blanda82@yahoo.com",
+      "phone": "+15306780703",
+      "city": "London",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Welch and Sons",
+      "role": "International Security Designer",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 37,
+    "metaData": {
+      "formId": "FORM-45076",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "a98d:a13b:adf4:6c50:33f2:e3fe:5da3:ca8b"
+    },
+    "timeline": {
+      "createdAt": "2023-05-18T09:20:25.709Z",
+      "lastContactedAt": null,
+      "convertedAt": "2025-09-27T13:46:25.440Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-094",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-64385",
+      "name": "Gorgeous Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Miss Jean Kemmer Sr.",
+      "email": "vivienne.macgyver16@yahoo.com",
+      "phone": "+13305247475",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Goldner - Jakubowski",
+      "role": "Global Operations Strategist",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 27,
+    "metaData": {
+      "formId": "FORM-41920",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "0eaf:adf1:d2eb:abfa:7fb3:03cb:4063:a88e"
+    },
+    "timeline": {
+      "createdAt": "2025-11-21T03:48:39.671Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Requested callback",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-095",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-63108",
+      "name": "Elegant Campaign",
+      "adSet": "Age 18-45 | India",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Esther Conroy",
+      "email": "petra.lemke@gmail.com",
+      "phone": "+14655777237",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Vandervort - Brakus",
+      "role": "Corporate Quality Associate",
+      "industry": "Finance"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 31,
+    "metaData": {
+      "formId": "FORM-46665",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "efd0:e6f8:8ee2:db7d:f0f5:ebab:a957:ffbc"
+    },
+    "timeline": {
+      "createdAt": "2023-10-12T21:18:22.734Z",
+      "lastContactedAt": "2024-09-01T05:35:04.777Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-096",
+    "source": "Meta Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "CMP-72760",
+      "name": "Frozen Campaign",
+      "adSet": "Age 18-45 | USA",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Shawna Reinger",
+      "email": "luella.koepp@hotmail.com",
+      "phone": "+19139302462",
+      "city": "New York",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Abbott, Franey and Cummings",
+      "role": "International Marketing Executive",
+      "industry": "Finance"
+    },
+    "leadStatus": "Converted",
+    "leadScore": 16,
+    "metaData": {
+      "formId": "FORM-40290",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Mobile",
+      "ipAddress": "229.173.134.167"
+    },
+    "timeline": {
+      "createdAt": "2025-03-22T05:50:47.202Z",
+      "lastContactedAt": null,
+      "convertedAt": "2025-06-13T08:33:32.951Z"
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-097",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-65476",
+      "name": "Licensed Launch",
+      "adSet": "Age 18-45 | India",
+      "adName": "Learn More Video"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Morris Walter",
+      "email": "leopoldo50@hotmail.com",
+      "phone": "+16667907236",
+      "city": "Delhi",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Predovic - Dach",
+      "role": "Corporate Solutions Manager",
+      "industry": "Software"
+    },
+    "leadStatus": "Lost",
+    "leadScore": 53,
+    "metaData": {
+      "formId": "FORM-49362",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Desktop",
+      "ipAddress": "31e8:73bb:ea4e:6bab:ba5b:f06a:f4e1:1acb"
+    },
+    "timeline": {
+      "createdAt": "2025-11-19T12:31:14.909Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "B2B inquiry",
+    "tags": ["hot-lead", "newsletter-sub"]
+  },
+  {
+    "id": "META-LEAD-098",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-95518",
+      "name": "Rustic Campaign",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Evelyn Heller-Howell",
+      "email": "werner.grady@yahoo.com",
+      "phone": "+13724936069",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Hackett Group",
+      "role": "Direct Security Designer",
+      "industry": "Finance"
+    },
+    "leadStatus": "New",
+    "leadScore": 60,
+    "metaData": {
+      "formId": "FORM-43203",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "214.96.86.244"
+    },
+    "timeline": {
+      "createdAt": "2024-08-12T10:41:45.673Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team B",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "urgent"]
+  },
+  {
+    "id": "META-LEAD-099",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-56971",
+      "name": "Tasty Launch",
+      "adSet": "Age 18-45 | UAE",
+      "adName": "Static Image v1"
+    },
+    "leadInfo": {
+      "fullName": "Lorenzo Kling-Glover",
+      "email": "sydnie_bruen@yahoo.com",
+      "phone": "+12903942999",
+      "city": "Abu Dhabi",
+      "country": "UAE"
+    },
+    "businessInfo": {
+      "company": "Jast Inc",
+      "role": "International Response Officer",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 31,
+    "metaData": {
+      "formId": "FORM-47527",
+      "pageName": "Official Meta Page",
+      "platform": "Facebook",
+      "device": "Desktop",
+      "ipAddress": "127.99.148.64"
+    },
+    "timeline": {
+      "createdAt": "2025-07-26T13:20:33.165Z",
+      "lastContactedAt": "2025-08-13T14:13:23.511Z",
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team A",
+      "handledBy": null
+    },
+    "notes": "Found via Instagram",
+    "tags": ["hot-lead", "demo-request"]
+  },
+  {
+    "id": "META-LEAD-100",
+    "source": "Meta Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "CMP-61999",
+      "name": "Awesome Launch",
+      "adSet": "Age 18-45 | Canada",
+      "adName": "Free Demo CTA"
+    },
+    "leadInfo": {
+      "fullName": "Lamar Metz",
+      "email": "ilene.schmitt44@gmail.com",
+      "phone": "+13382959607",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Runolfsson - Wilderman",
+      "role": "Legacy Branding Analyst",
+      "industry": "Digital Marketing"
+    },
+    "leadStatus": "Qualified",
+    "leadScore": 40,
+    "metaData": {
+      "formId": "FORM-42210",
+      "pageName": "Official Meta Page",
+      "platform": "Instagram",
+      "device": "Mobile",
+      "ipAddress": "8707:eb7a:a8da:b09c:c2ca:6db8:5dee:a08e"
+    },
+    "timeline": {
+      "createdAt": "2024-05-17T21:00:59.446Z",
+      "lastContactedAt": null,
+      "convertedAt": null
+    },
+    "owner": {
+      "assignedTo": "Regional Desk",
+      "handledBy": null
+    },
+    "notes": "Interested in pricing",
+    "tags": ["hot-lead", "demo-request"]
+  }
+]

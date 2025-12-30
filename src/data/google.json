@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "GGL-LEAD-001",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-277397",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Handcrafted Plastic Soap Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "ZYTLXBA81PMCUYLNCJLJULLTS",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Faith Schultz",
+      "email": "bria34@hotmail.com",
+      "phone": "+19253130377",
+      "city": "Jovaniburgh",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Anderson - Murphy",
+      "role": "Direct Paradigm Associate",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 80,
+    "metaData": {
+      "googleFormId": "EXT-264",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "65.96.215.5"
+    },
+    "timeline": {
+      "createdAt": "2025-04-15T03:25:29.814Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-002",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-618977",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Sleek Metal Chair Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "XXVFSVSXOW6ANATIPFIKCH3UY",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Jenny Stark DDS",
+      "email": "ewald_ritchie@hotmail.com",
+      "phone": "+19606748073",
+      "city": "Manchester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Kemmer, Hoppe and Schmitt",
+      "role": "Internal Tactics Specialist",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 91,
+    "metaData": {
+      "googleFormId": "EXT-484",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "226.250.18.1"
+    },
+    "timeline": {
+      "createdAt": "2024-03-18T19:17:16.124Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-003",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-801116",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Generic Steel Keyboard Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "7YSCXEZKK9Q99NU8L3ZMWRSOP",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Brittany Rolfson I",
+      "email": "herta62@gmail.com",
+      "phone": "+19838473520",
+      "city": "Fort Blair",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Oberbrunner LLC",
+      "role": "District Assurance Representative",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 65,
+    "metaData": {
+      "googleFormId": "EXT-852",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "f135:5f7e:7e7f:ac63:af89:ef5a:0bfc:1157"
+    },
+    "timeline": {
+      "createdAt": "2024-07-20T03:00:57.114Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-004",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-488544",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Handcrafted Wooden Mouse Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "LOF9Q31EGPJU7GQG81DXQKTI1",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Jesse Crooks",
+      "email": "cyril.carter99@yahoo.com",
+      "phone": "+18779826090",
+      "city": "West Ivorystad",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Kub Inc",
+      "role": "Direct Communications Assistant",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 31,
+    "metaData": {
+      "googleFormId": "EXT-382",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "23.78.150.252"
+    },
+    "timeline": {
+      "createdAt": "2025-06-13T02:44:30.960Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-005",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-420739",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Bespoke Silk Keyboard Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "JAAGB55NCMNLHHGLTUY56F3D4",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Sonia Kihn",
+      "email": "deshawn71@gmail.com",
+      "phone": "+15643284770",
+      "city": "Fort Eladiocester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Mayer LLC",
+      "role": "Chief Optimization Director",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 48,
+    "metaData": {
+      "googleFormId": "EXT-579",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "29.125.243.205"
+    },
+    "timeline": {
+      "createdAt": "2025-04-03T23:49:30.694Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-006",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-124226",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Ergonomic Silk Fish Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "RY5CSYJIFUTLSEUGC7OSKMKRW",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Chris Schoen",
+      "email": "vita.stiedemann@gmail.com",
+      "phone": "+17724747241",
+      "city": "East Ellsworthshire",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Romaguera and Sons",
+      "role": "Direct Usability Administrator",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 80,
+    "metaData": {
+      "googleFormId": "EXT-324",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "152.70.207.238"
+    },
+    "timeline": {
+      "createdAt": "2024-11-15T07:10:40.035Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-007",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-449366",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Gorgeous Metal Cheese Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "JD9MZTJNMPXVYGALIRCEUG0IR",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Dan Conn",
+      "email": "destin80@hotmail.com",
+      "phone": "+16698673780",
+      "city": "Lake Marcos",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Brakus and Sons",
+      "role": "Forward Web Coordinator",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 48,
+    "metaData": {
+      "googleFormId": "EXT-268",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "71e9:dc07:23b0:7d5f:1e8a:b1ee:c5fe:8f96"
+    },
+    "timeline": {
+      "createdAt": "2025-07-28T10:49:21.436Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-008",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-116226",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Sleek Marble Table Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "Z0XCLBCLPB8VWLBY1QL1PLQAS",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Eunice Schoen",
+      "email": "kelvin.kub@yahoo.com",
+      "phone": "+14163255284",
+      "city": "New Buddy",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Kreiger Group",
+      "role": "Investor Applications Liaison",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 40,
+    "metaData": {
+      "googleFormId": "EXT-519",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "9ba9:295f:5d6a:a8dd:f2a4:ce75:5d9e:7f9d"
+    },
+    "timeline": {
+      "createdAt": "2025-11-14T14:38:28.304Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-009",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-902440",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Rustic Rubber Mouse Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "MODUJSMWYLIJIKTJRLKUS7BVX",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Dr. Alfonso Bradtke",
+      "email": "mitchel.davis@gmail.com",
+      "phone": "+18477875240",
+      "city": "North Cassandrestad",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Hoppe and Sons",
+      "role": "Customer Interactions Manager",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 75,
+    "metaData": {
+      "googleFormId": "EXT-175",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "175.90.205.177"
+    },
+    "timeline": {
+      "createdAt": "2024-01-19T23:14:05.896Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-010",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-366203",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Sleek Aluminum Tuna Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "0QHKIQRIJGCFNZMTJXMMFACZ6",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Lorena Corwin",
+      "email": "maxie.grimes55@hotmail.com",
+      "phone": "+13738990466",
+      "city": "West Brittanytown",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Cormier and Sons",
+      "role": "Senior Infrastructure Planner",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 65,
+    "metaData": {
+      "googleFormId": "EXT-683",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "252.138.169.255"
+    },
+    "timeline": {
+      "createdAt": "2024-12-13T13:19:10.309Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-011",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-900702",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Intelligent Bronze Shoes Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "PV38U6GIKQ2BG0XIBWDET9P9C",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Roy Schneider MD",
+      "email": "naomie_wiegand@yahoo.com",
+      "phone": "+18158850032",
+      "city": "Davis",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Mueller, Johns and Ankunding",
+      "role": "Chief Paradigm Engineer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 98,
+    "metaData": {
+      "googleFormId": "EXT-116",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "8b6b:0cdd:ff13:53dd:fc7f:4348:9dfb:b91f"
+    },
+    "timeline": {
+      "createdAt": "2025-12-20T11:36:01.900Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-012",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-150411",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Practical Bamboo Keyboard Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "WYG0UNCTL2RSE8IADYN6I06M2",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Angelina Von",
+      "email": "nicole.donnelly28@hotmail.com",
+      "phone": "+17073152803",
+      "city": "Langworthshire",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Dooley, Hauck and Haag",
+      "role": "Customer Optimization Coordinator",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 37,
+    "metaData": {
+      "googleFormId": "EXT-731",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "0d8b:390a:93be:e6cb:20cc:fc6d:e53a:cab2"
+    },
+    "timeline": {
+      "createdAt": "2024-02-10T16:36:26.910Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-013",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-481088",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Soft Aluminum Soap Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "CMFLML9IJ5OBTQMXGMZAEAGND",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Clint Langworth",
+      "email": "jace_west@gmail.com",
+      "phone": "+15392068890",
+      "city": "Wilmington",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "O'Hara LLC",
+      "role": "Principal Applications Architect",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 46,
+    "metaData": {
+      "googleFormId": "EXT-720",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "23.190.240.104"
+    },
+    "timeline": {
+      "createdAt": "2025-10-24T20:39:23.566Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-014",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-138628",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Oriental Wooden Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "ITTQCKBJ2GQVOCUWGZUYMIEVA",
+      "keyword": "affordable health insurance",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Mrs. Diane Fritsch",
+      "email": "josue_collins42@yahoo.com",
+      "phone": "+19249844420",
+      "city": "Wauwatosa",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Kling - Rippin",
+      "role": "Product Paradigm Executive",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 83,
+    "metaData": {
+      "googleFormId": "EXT-192",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "a05c:cf4a:c3a5:1a7c:a3ed:b8bb:51da:412f"
+    },
+    "timeline": {
+      "createdAt": "2025-08-08T07:38:05.729Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-015",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-878222",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Awesome Ceramic Pizza Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "GROPLEVZ8TM9YU0GL5IRAVHGA",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Gregory Conn",
+      "email": "dereck.strosin10@hotmail.com",
+      "phone": "+15042631697",
+      "city": "Fort Myers",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Cole LLC",
+      "role": "Chief Applications Specialist",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 57,
+    "metaData": {
+      "googleFormId": "EXT-713",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "214.208.232.114"
+    },
+    "timeline": {
+      "createdAt": "2024-12-06T10:06:06.582Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-016",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-851407",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Electronic Plastic Shirt Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "GYCKRB97L2YMYRFWQLKQ8DJSG",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Kyle Padberg-Yundt",
+      "email": "don.damore@yahoo.com",
+      "phone": "+18313010017",
+      "city": "Belleside",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Fahey - Franey",
+      "role": "International Implementation Technician",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 39,
+    "metaData": {
+      "googleFormId": "EXT-484",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "dacd:3c94:132d:f35f:05c3:d7ff:7c9f:b0c6"
+    },
+    "timeline": {
+      "createdAt": "2025-01-01T07:54:09.960Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-017",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-148588",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Refined Silk Table Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "QROVCP9XCWPVSOW31K1HAN93P",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Angela Hettinger",
+      "email": "chris_huels81@gmail.com",
+      "phone": "+15362001235",
+      "city": "Langoshtown",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Gleichner - Sanford",
+      "role": "Legacy Security Specialist",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 74,
+    "metaData": {
+      "googleFormId": "EXT-570",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "a827:bfcf:5de8:7dd7:c0f4:fcd7:31d4:d8ea"
+    },
+    "timeline": {
+      "createdAt": "2024-09-21T19:38:52.068Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-018",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-637049",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Rustic Ceramic Bacon Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "YP2FWPK5X89FMMH0ICAR2SNTS",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Ben Botsford",
+      "email": "leann6@yahoo.com",
+      "phone": "+14608131527",
+      "city": "Breitenbergside",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Schimmel - Zemlak",
+      "role": "Investor Intranet Specialist",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 61,
+    "metaData": {
+      "googleFormId": "EXT-653",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "5f85:2b5a:1165:95fd:c32e:c49b:e381:f8c1"
+    },
+    "timeline": {
+      "createdAt": "2024-01-05T15:13:05.778Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-019",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-158094",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Modern Ceramic Shirt Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "FRONR1N33LGMWZNHOEZWUWSXC",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Erik Predovic",
+      "email": "monroe88@gmail.com",
+      "phone": "+17049250855",
+      "city": "New Kiel",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Lang and Sons",
+      "role": "Principal Implementation Officer",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 55,
+    "metaData": {
+      "googleFormId": "EXT-628",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "2da7:1ec9:d2c8:ff0f:9853:ea45:58a8:fe70"
+    },
+    "timeline": {
+      "createdAt": "2025-02-11T09:29:48.655Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-020",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-100191",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Tasty Metal Soap Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "E03M8JPWREL1YCOHLKTO013LV",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Taylor Langosh",
+      "email": "chloe_kub94@yahoo.com",
+      "phone": "+13389900494",
+      "city": "Predovicmouth",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Kunde Group",
+      "role": "Human Identity Director",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 74,
+    "metaData": {
+      "googleFormId": "EXT-927",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "2.74.187.188"
+    },
+    "timeline": {
+      "createdAt": "2025-07-22T07:08:52.579Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-021",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-202979",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Licensed Concrete Table Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "VEMQ4FJHP3EATJW2XZLT8LASN",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Lyle Bechtelar",
+      "email": "myah83@yahoo.com",
+      "phone": "+17309035906",
+      "city": "Altadena",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Grady - Douglas",
+      "role": "Forward Functionality Agent",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 85,
+    "metaData": {
+      "googleFormId": "EXT-103",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "80d3:76fa:791d:8ed2:d119:5dd7:9fc6:cfcf"
+    },
+    "timeline": {
+      "createdAt": "2024-05-24T20:53:03.617Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-022",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-317652",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Fresh Bamboo Sausages Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "S3DWMLPOE0FSFEEPCRZKXAMMQ",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Mrs. Rose Schamberger",
+      "email": "doris.cole5@hotmail.com",
+      "phone": "+19938457558",
+      "city": "Kevinville",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Cremin, Gorczany and Bins",
+      "role": "Central Integration Facilitator",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 39,
+    "metaData": {
+      "googleFormId": "EXT-560",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "a26a:d2f4:8cdb:e6e0:682a:d818:e334:f3f6"
+    },
+    "timeline": {
+      "createdAt": "2025-06-25T22:14:09.685Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-023",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-804243",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Ergonomic Marble Pizza Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "TPYNMUVULQYKFJDFTXIQOBXIE",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Ella Cormier",
+      "email": "marilie29@gmail.com",
+      "phone": "+12398653822",
+      "city": "Milpitas",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Ryan - Schaden",
+      "role": "Global Security Planner",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 46,
+    "metaData": {
+      "googleFormId": "EXT-768",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "209.79.96.139"
+    },
+    "timeline": {
+      "createdAt": "2025-02-14T23:09:13.955Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-024",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-351151",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Tasty Aluminum Pants Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "YHXPA8QZGRW20EXREAOMKPPFY",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Morris Bogan",
+      "email": "elissa_becker41@hotmail.com",
+      "phone": "+14285296464",
+      "city": "Gerholdcester",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Jacobson - Frami",
+      "role": "Investor Group Designer",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 30,
+    "metaData": {
+      "googleFormId": "EXT-494",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "245.123.112.157"
+    },
+    "timeline": {
+      "createdAt": "2024-06-02T04:44:37.653Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-025",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-474918",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Fresh Steel Towels Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "OR2ZIMT2AGBRPXGSO3WWMKWJO",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Phyllis Heathcote",
+      "email": "tatum12@yahoo.com",
+      "phone": "+18078898818",
+      "city": "Constantinborough",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Klein, Barton and Bins",
+      "role": "Product Accountability Officer",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 93,
+    "metaData": {
+      "googleFormId": "EXT-510",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "97.245.248.78"
+    },
+    "timeline": {
+      "createdAt": "2025-09-03T17:09:58.645Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-026",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-116017",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Awesome Cotton Bike Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "IPLQ2ZARR0MZHEAMKUZ30VH3K",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Dianne Feeney",
+      "email": "jermain.simonis-king38@hotmail.com",
+      "phone": "+19086088697",
+      "city": "Lake Jameson",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Boyer - Dare",
+      "role": "Investor Configuration Facilitator",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 60,
+    "metaData": {
+      "googleFormId": "EXT-995",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "187.207.45.65"
+    },
+    "timeline": {
+      "createdAt": "2025-09-29T20:48:16.023Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-027",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-338962",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Oriental Wooden Towels Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "1BDK5R7YXO4QP4G2K9O2RQPXW",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Trevor Smitham",
+      "email": "justine.ondricka51@yahoo.com",
+      "phone": "+15762688520",
+      "city": "Retastad",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Gibson and Sons",
+      "role": "Investor Integration Executive",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 96,
+    "metaData": {
+      "googleFormId": "EXT-358",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "e984:7ffa:f2ac:c1fb:af04:e4cc:c8f5:626f"
+    },
+    "timeline": {
+      "createdAt": "2024-05-06T22:06:32.319Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-028",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-336296",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Handmade Ceramic Salad Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "FFO4DDN7KDZA3RKGFPNCTRLUQ",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Frances Heaney",
+      "email": "esperanza91@yahoo.com",
+      "phone": "+16567632111",
+      "city": "Claudiaboro",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "O'Conner Inc",
+      "role": "Forward Paradigm Specialist",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 95,
+    "metaData": {
+      "googleFormId": "EXT-135",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "199.199.144.60"
+    },
+    "timeline": {
+      "createdAt": "2024-11-15T17:19:17.798Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-029",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-372217",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Tasty Wooden Salad Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "R9WQMTKRYABXRXW0GB4L0QWKT",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Christine Smith",
+      "email": "stephen.jacobson@gmail.com",
+      "phone": "+18165954744",
+      "city": "Larkincester",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Lebsack - Ondricka",
+      "role": "Chief Mobility Representative",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 75,
+    "metaData": {
+      "googleFormId": "EXT-560",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "a9d2:fdd2:1e29:5d5b:9fbc:f75b:3e10:b212"
+    },
+    "timeline": {
+      "createdAt": "2025-09-16T21:40:08.251Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-030",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-986655",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Practical Gold Pizza Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "8FOL1DZJATO6D0BOHP1WMWXU5",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Jacqueline Feest",
+      "email": "etha50@gmail.com",
+      "phone": "+17419278481",
+      "city": "Lake Gennarostead",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Ziemann, Wunsch and Kshlerin",
+      "role": "District Creative Supervisor",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 48,
+    "metaData": {
+      "googleFormId": "EXT-418",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "131.118.109.198"
+    },
+    "timeline": {
+      "createdAt": "2025-05-04T01:43:20.994Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-031",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-300684",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Licensed Bamboo Mouse Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "QOSGMGHI586OD2RVLEFSF8DS5",
+      "keyword": "affordable health insurance",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Sheldon Renner III",
+      "email": "elza_boyle@yahoo.com",
+      "phone": "+13528036971",
+      "city": "West Agnes",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Yundt, Runolfsson and Grady",
+      "role": "Central Implementation Producer",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 76,
+    "metaData": {
+      "googleFormId": "EXT-939",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "37.116.95.120"
+    },
+    "timeline": {
+      "createdAt": "2024-09-14T03:16:06.735Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-032",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-435265",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Incredible Gold Pants Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "DS1XCKFP0NIDL4DGPFPK79RGV",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Max Stoltenberg",
+      "email": "jayne28@hotmail.com",
+      "phone": "+19179982342",
+      "city": "Fort Bufordboro",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Luettgen, Kovacek and Bode",
+      "role": "Principal Metrics Administrator",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 50,
+    "metaData": {
+      "googleFormId": "EXT-251",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "173.87.200.108"
+    },
+    "timeline": {
+      "createdAt": "2025-02-11T11:40:35.180Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-033",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-522987",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Licensed Marble Chips Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "K06NT9SFR4YBADLNOFUWZCW1N",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Evan Paucek",
+      "email": "martin_paucek@yahoo.com",
+      "phone": "+19477689109",
+      "city": "Vedashire",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Fisher - Kozey",
+      "role": "Senior Intranet Consultant",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 94,
+    "metaData": {
+      "googleFormId": "EXT-892",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "b893:c9f7:dcb7:86cf:315b:ef0a:bdda:d1ce"
+    },
+    "timeline": {
+      "createdAt": "2025-03-15T12:12:00.758Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-034",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-698640",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Tasty Bamboo Towels Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "OZWNTFZPUPYLM7DKSUYJ3ZPWT",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Jessie Kuhlman",
+      "email": "angeline_kozey@hotmail.com",
+      "phone": "+14587979396",
+      "city": "Connellyside",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Tremblay - Volkman",
+      "role": "Senior Group Director",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 85,
+    "metaData": {
+      "googleFormId": "EXT-916",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "5386:e88e:d0b9:ba27:ecfe:dd5f:5d5b:d658"
+    },
+    "timeline": {
+      "createdAt": "2025-06-02T16:38:08.121Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-035",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-373102",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Practical Silk Mouse Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "53GAJLSCNQOT8AYUW0LG67BCF",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Kent Bosco",
+      "email": "marjory.jakubowski99@gmail.com",
+      "phone": "+17092526641",
+      "city": "West Deonte",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Heaney, Predovic and Smitham",
+      "role": "Forward Marketing Officer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 79,
+    "metaData": {
+      "googleFormId": "EXT-997",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "85.121.246.195"
+    },
+    "timeline": {
+      "createdAt": "2024-04-12T07:43:34.942Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-036",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-381794",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Sleek Granite Fish Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "5JHPBQ1HM3HRDTNTXW6AHINXD",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Ivan Grimes I",
+      "email": "alec64@yahoo.com",
+      "phone": "+16658295786",
+      "city": "Marvinview",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Wiegand, Fritsch and Langworth",
+      "role": "Direct Paradigm Architect",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 84,
+    "metaData": {
+      "googleFormId": "EXT-412",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "d4bb:da89:3e7b:9f14:5dcf:e904:a2be:cbdc"
+    },
+    "timeline": {
+      "createdAt": "2024-05-22T08:14:24.747Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-037",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-230027",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Tasty Wooden Soap Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "X5CY38FJLE8EOWQOFHTIG7NBT",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Nancy Flatley DDS",
+      "email": "angus78@gmail.com",
+      "phone": "+13914591562",
+      "city": "Lake Eulalia",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Gottlieb, Cummerata and Beahan",
+      "role": "Regional Accountability Orchestrator",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 30,
+    "metaData": {
+      "googleFormId": "EXT-626",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "153.135.203.81"
+    },
+    "timeline": {
+      "createdAt": "2024-04-02T03:27:48.446Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-038",
+    "source": "Google Ads",
+    "status": "coverted",
+    "campaign": {
+      "id": "AW-516439",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Bespoke Granite Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "I5XPT4XUNQDJDUP6YZH5OZ01Y",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Janis Bergnaum",
+      "email": "rebeca64@gmail.com",
+      "phone": "+14394548205",
+      "city": "New Lelahview",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Gulgowski Inc",
+      "role": "International Response Liaison",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 78,
+    "metaData": {
+      "googleFormId": "EXT-662",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "86.166.13.2"
+    },
+    "timeline": {
+      "createdAt": "2024-12-02T17:10:41.002Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-039",
+    "source": "Google Ads",
+    "status": "coverted",
+    "campaign": {
+      "id": "AW-683670",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Soft Marble Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "GE2XITVVL4E7A5J0NOTJYOJ4B",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Linda Kreiger",
+      "email": "curtis27@gmail.com",
+      "phone": "+13668454500",
+      "city": "Rodriguezberg",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Nader, Heaney and Russel",
+      "role": "Legacy Tactics Executive",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 89,
+    "metaData": {
+      "googleFormId": "EXT-442",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "202.62.31.187"
+    },
+    "timeline": {
+      "createdAt": "2024-04-14T16:26:22.100Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-040",
+    "source": "Google Ads",
+    "status": "coverted",
+    "campaign": {
+      "id": "AW-393641",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Fantastic Granite Chips Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "SPNQ6IXNLRUQBBVPBPQXTJSTD",
+      "keyword": "affordable health insurance",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Lorene Macejkovic",
+      "email": "emery_brekke@hotmail.com",
+      "phone": "+19334186365",
+      "city": "Lacey",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Gorczany - Klocko",
+      "role": "Corporate Branding Agent",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 74,
+    "metaData": {
+      "googleFormId": "EXT-742",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "f5ca:5148:a1a8:3ffe:0fdd:f010:feed:bacd"
+    },
+    "timeline": {
+      "createdAt": "2025-02-14T01:12:50.436Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-041",
+    "source": "Google Ads",
+    "status": "coverted",
+    "campaign": {
+      "id": "AW-911861",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Generic Aluminum Salad Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "J0BAJMD7HHY1AKKHLCX4SJ13V",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Nicholas Ondricka",
+      "email": "sigmund12@gmail.com",
+      "phone": "+16004528055",
+      "city": "Sandy",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Harber, Torp and Adams",
+      "role": "Principal Program Developer",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 67,
+    "metaData": {
+      "googleFormId": "EXT-861",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "dfca:1b30:6dee:96e9:9313:ea1d:e05d:d5ed"
+    },
+    "timeline": {
+      "createdAt": "2025-06-27T11:07:27.818Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-042",
+    "source": "Google Ads",
+    "status": "coverted",
+    "campaign": {
+      "id": "AW-371007",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Unbranded Rubber Fish Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "GLIX0YKMDCGZ4MVVTSRGXUWYA",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Ms. Shelly Ward",
+      "email": "oswaldo_herman@gmail.com",
+      "phone": "+17336001153",
+      "city": "Lake Trystanton",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Douglas, Kuhn and Wisozk",
+      "role": "Investor Operations Supervisor",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 85,
+    "metaData": {
+      "googleFormId": "EXT-270",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "a133:920f:d53f:68a2:b9ae:f2c4:bab0:bf2b"
+    },
+    "timeline": {
+      "createdAt": "2025-04-22T09:21:37.583Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-043",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-112779",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Ergonomic Bronze Tuna Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "KDTSFRVTWIEPXMR50SM10DMH2",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Martha Hayes II",
+      "email": "angela.collins@gmail.com",
+      "phone": "+13949129512",
+      "city": "Arlieworth",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Roob, Tillman and Mitchell",
+      "role": "District Paradigm Architect",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 69,
+    "metaData": {
+      "googleFormId": "EXT-894",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "07fe:ead5:b85a:fca4:646b:2dce:e32a:870e"
+    },
+    "timeline": {
+      "createdAt": "2025-04-24T00:29:01.321Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-044",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-754314",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Tasty Aluminum Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "D2NVYWSK8PVR9XNLNOWZSKSIP",
+      "keyword": "affordable health insurance",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Israel Rowe",
+      "email": "leonor_gibson92@gmail.com",
+      "phone": "+18219661211",
+      "city": "Salliehaven",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Stroman - Fay",
+      "role": "Future Tactics Strategist",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 65,
+    "metaData": {
+      "googleFormId": "EXT-510",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "eaae:52f0:edd4:d22c:fb58:edb4:a67a:d47c"
+    },
+    "timeline": {
+      "createdAt": "2025-03-06T17:36:57.731Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-045",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-437466",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Frozen Plastic Chicken Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "FHXCDIAQKXJJUHCUPETE2HDTT",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Joan Rosenbaum",
+      "email": "darrion_kuhic-mraz@gmail.com",
+      "phone": "+17707254033",
+      "city": "Krystelview",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Blanda, Prosacco and Lueilwitz",
+      "role": "Future Communications Representative",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 76,
+    "metaData": {
+      "googleFormId": "EXT-677",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "b766:e35f:d28c:a7bb:ecac:e3cf:a2d4:22fc"
+    },
+    "timeline": {
+      "createdAt": "2024-12-06T00:42:57.755Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-046",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-294411",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Small Ceramic Tuna Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "KWKXYDNU30IBLCCCLPYGRJJZY",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Abraham Koss",
+      "email": "furman.hoppe57@hotmail.com",
+      "phone": "+17604591246",
+      "city": "Wolffville",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Haag and Sons",
+      "role": "Forward Web Assistant",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 95,
+    "metaData": {
+      "googleFormId": "EXT-471",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "39.105.193.26"
+    },
+    "timeline": {
+      "createdAt": "2025-02-21T04:48:44.436Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-047",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-428296",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Fresh Bamboo Mouse Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "JZGCZI8NQZUM5R99S4W558HSK",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Josephine Rosenbaum DVM",
+      "email": "vivianne.yost37@hotmail.com",
+      "phone": "+19864246126",
+      "city": "Port Abbey",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Shanahan - Hegmann",
+      "role": "Legacy Marketing Assistant",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 68,
+    "metaData": {
+      "googleFormId": "EXT-218",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "133.42.50.228"
+    },
+    "timeline": {
+      "createdAt": "2025-03-24T03:25:55.202Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-048",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-300979",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Unbranded Gold Pants Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "MNHEBT9Y0VHUKBHVRJPWUVZ4U",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Kenneth Schmitt",
+      "email": "terrance_wiza39@hotmail.com",
+      "phone": "+16296010514",
+      "city": "Lake Cristina",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Stamm Group",
+      "role": "Forward Configuration Engineer",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 36,
+    "metaData": {
+      "googleFormId": "EXT-884",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "171.1.189.103"
+    },
+    "timeline": {
+      "createdAt": "2024-09-14T13:53:31.468Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-049",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-518625",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Generic Aluminum Computer Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "B75QB1KKVWE4VKKM8NNVWQLKY",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Tami Gerhold",
+      "email": "lynn88@hotmail.com",
+      "phone": "+14826055280",
+      "city": "Fadelview",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Prohaska, Zemlak and Von",
+      "role": "Forward Research Agent",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 36,
+    "metaData": {
+      "googleFormId": "EXT-377",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "e7b1:d85a:49cd:adc2:be0b:fcb1:db41:63ef"
+    },
+    "timeline": {
+      "createdAt": "2024-10-03T23:30:53.114Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-050",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-611767",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Fantastic Silk Shirt Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "RUY9W4T3XM8DEIF4ITO5XYEEC",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Delores Johns",
+      "email": "zackary48@gmail.com",
+      "phone": "+15327166675",
+      "city": "Gutmannhaven",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "McKenzie - Keebler",
+      "role": "Customer Marketing Representative",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 48,
+    "metaData": {
+      "googleFormId": "EXT-497",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "36d0:f1f0:42ca:5ef2:ccb8:6dea:09ad:9e35"
+    },
+    "timeline": {
+      "createdAt": "2024-08-20T00:26:59.273Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-051",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-360536",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Refined Bamboo Table Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "XP3QRZLHA0NOWNCYE8CF2JJOR",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Jorge Schuppe Sr.",
+      "email": "rafael_kassulke@hotmail.com",
+      "phone": "+14863874574",
+      "city": "New Leoneshire",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Gerhold, Collier and Kiehn",
+      "role": "Customer Solutions Architect",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 54,
+    "metaData": {
+      "googleFormId": "EXT-667",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "3dcf:8ab4:c4a0:ddf3:1f67:85dc:061d:07eb"
+    },
+    "timeline": {
+      "createdAt": "2024-12-28T07:05:15.779Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-052",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-422182",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Small Metal Shirt Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "2EKWZPOXS8KDWUBLST4RU2VPS",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Sammy Kassulke",
+      "email": "lydia_mclaughlin@yahoo.com",
+      "phone": "+12576222299",
+      "city": "Simi Valley",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Harvey - Kassulke",
+      "role": "Internal Solutions Producer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 55,
+    "metaData": {
+      "googleFormId": "EXT-447",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "27.217.101.161"
+    },
+    "timeline": {
+      "createdAt": "2024-03-15T11:22:18.229Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-053",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-370070",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Ergonomic Wooden Fish Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "9MN3NKPKMVFEXINVMBG5UPFHA",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Juana Weber",
+      "email": "frankie.schimmel@gmail.com",
+      "phone": "+17407065725",
+      "city": "Fort Mathiasmouth",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Hoeger LLC",
+      "role": "Investor Marketing Strategist",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 81,
+    "metaData": {
+      "googleFormId": "EXT-188",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "230.11.125.89"
+    },
+    "timeline": {
+      "createdAt": "2025-11-28T23:29:21.486Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-054",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-526522",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Elegant Ceramic Bacon Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "WIIECNVV7SLYX9P1A0IV3ADYC",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Julie Spinka",
+      "email": "junius_stamm88@yahoo.com",
+      "phone": "+12777447871",
+      "city": "Utica",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Klocko Group",
+      "role": "Investor Infrastructure Technician",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 71,
+    "metaData": {
+      "googleFormId": "EXT-755",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "120.211.142.121"
+    },
+    "timeline": {
+      "createdAt": "2024-12-25T03:03:39.503Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-055",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-703387",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Generic Rubber Cheese Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "JT88WNSZZNFAQQTLKNYDDPXHX",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Elizabeth Fahey",
+      "email": "khalid17@yahoo.com",
+      "phone": "+13532836888",
+      "city": "West Sandyborough",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Heaney and Sons",
+      "role": "Direct Tactics Associate",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 92,
+    "metaData": {
+      "googleFormId": "EXT-962",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "7.37.246.1"
+    },
+    "timeline": {
+      "createdAt": "2024-04-06T16:05:43.947Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-056",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-232658",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Electronic Bronze Ball Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "G2E42CBVCY3G30XJLYEZDAAKF",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Ben Ratke",
+      "email": "elmira_schinner30@gmail.com",
+      "phone": "+15858750236",
+      "city": "South Sydnistad",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Fisher - Doyle",
+      "role": "Regional Paradigm Executive",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 45,
+    "metaData": {
+      "googleFormId": "EXT-381",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "184.52.31.4"
+    },
+    "timeline": {
+      "createdAt": "2024-07-15T09:10:25.244Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-057",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-368568",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Rustic Metal Ball Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "WXYGKFTUAAWR9NDX76GTKAPYJ",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Mrs. Alexis Fay Jr.",
+      "email": "floyd_sawayn61@yahoo.com",
+      "phone": "+16565183889",
+      "city": "West Des Moines",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Toy and Sons",
+      "role": "Chief Configuration Engineer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 47,
+    "metaData": {
+      "googleFormId": "EXT-563",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "38de:db2d:ad75:d288:505a:ab9d:3e0d:0c3e"
+    },
+    "timeline": {
+      "createdAt": "2025-02-24T23:31:30.944Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-058",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-271058",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Unbranded Rubber Pizza Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "PFBQ1SNR5X756NASCLJUL4MIV",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Terry Roob",
+      "email": "brent_mccullough75@gmail.com",
+      "phone": "+14347393541",
+      "city": "Mikefort",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Lynch, Jakubowski and Jaskolski",
+      "role": "Investor Optimization Architect",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 97,
+    "metaData": {
+      "googleFormId": "EXT-117",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "bdbf:dbf6:ebe0:087e:dfc3:af6d:fa74:1174"
+    },
+    "timeline": {
+      "createdAt": "2025-07-11T12:11:57.390Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-059",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-894410",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Handmade Marble Bacon Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "WGCIKA2WJANWAZ7VJQHZCQULY",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Mrs. Regina Schumm",
+      "email": "everardo_kuphal17@gmail.com",
+      "phone": "+14616306553",
+      "city": "Mayerttown",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Hand - Spinka",
+      "role": "Corporate Response Representative",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 50,
+    "metaData": {
+      "googleFormId": "EXT-696",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "113.65.225.30"
+    },
+    "timeline": {
+      "createdAt": "2024-06-27T22:20:45.099Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-060",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-662132",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Modern Wooden Bacon Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "NJLXGXNIWXB3TPQYSZX3K8APU",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Tracey Terry",
+      "email": "erna_greenholt80@yahoo.com",
+      "phone": "+16458283380",
+      "city": "West Juanita",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Kautzer and Sons",
+      "role": "International Operations Assistant",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 45,
+    "metaData": {
+      "googleFormId": "EXT-656",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "b72e:cd1a:b8c5:8a43:af7f:4adc:87bd:b41b"
+    },
+    "timeline": {
+      "createdAt": "2025-12-30T19:42:53.171Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-061",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-545492",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Oriental Plastic Bacon Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "WMRGDEN3HYK2KXIBEON6STACI",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Paula Dickens",
+      "email": "lavonne_casper@gmail.com",
+      "phone": "+17508403488",
+      "city": "West Ryleeberg",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Kemmer, Green and Abshire",
+      "role": "Legacy Assurance Executive",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 39,
+    "metaData": {
+      "googleFormId": "EXT-393",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "a9a5:3f7d:9fee:f106:4b2e:5cbb:80bc:1d77"
+    },
+    "timeline": {
+      "createdAt": "2024-02-17T18:45:25.488Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-062",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-501073",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Unbranded Rubber Chair Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "Z5R9J7ETURQ1MXTTYVGA48Y7A",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Vickie Gulgowski",
+      "email": "ubaldo92@gmail.com",
+      "phone": "+15405692284",
+      "city": "Hauckstad",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Graham, Haley and Wyman",
+      "role": "Human Integration Producer",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 77,
+    "metaData": {
+      "googleFormId": "EXT-612",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "211.94.93.104"
+    },
+    "timeline": {
+      "createdAt": "2024-02-20T19:27:01.981Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-063",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-274921",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Luxurious Silk Fish Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "ZM6NQ1TPRRSMWDYMGQQITBIBU",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Rhonda Schuppe",
+      "email": "domenick_lindgren@yahoo.com",
+      "phone": "+14077838786",
+      "city": "Allentown",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Krajcik LLC",
+      "role": "Investor Brand Strategist",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 34,
+    "metaData": {
+      "googleFormId": "EXT-817",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "4650:4d7e:cd5d:5a2e:ec26:94fc:ddcb:731f"
+    },
+    "timeline": {
+      "createdAt": "2025-05-04T18:29:02.477Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-064",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-592943",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Generic Aluminum Tuna Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "BHSOIT0ZXRWHU0CEEYC7ZMUJR",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Olivia Wisoky",
+      "email": "maya.stracke@hotmail.com",
+      "phone": "+15739971845",
+      "city": "Rosellacester",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Hartmann Group",
+      "role": "Customer Marketing Developer",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 75,
+    "metaData": {
+      "googleFormId": "EXT-853",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "179.74.83.254"
+    },
+    "timeline": {
+      "createdAt": "2025-05-17T20:24:56.275Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-065",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-157982",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Tasty Plastic Chicken Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "U9FDAWSNQPXHKPAZRPVM006EN",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Teresa Larson",
+      "email": "jarrell_hansen-weimann61@gmail.com",
+      "phone": "+14193774804",
+      "city": "The Villages",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Boyer LLC",
+      "role": "Investor Research Strategist",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 44,
+    "metaData": {
+      "googleFormId": "EXT-108",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "27.98.223.228"
+    },
+    "timeline": {
+      "createdAt": "2025-01-01T04:54:04.076Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-066",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-800949",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Handmade Granite Table Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "1QEGZXIPI8UBUNFMZJZB2YMNU",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Ernesto Kemmer",
+      "email": "kailey.kreiger60@hotmail.com",
+      "phone": "+12086135822",
+      "city": "Rolfsonton",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Hegmann - Mertz",
+      "role": "Customer Optimization Executive",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 49,
+    "metaData": {
+      "googleFormId": "EXT-940",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "44.113.137.83"
+    },
+    "timeline": {
+      "createdAt": "2025-10-08T02:52:29.475Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-067",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-511298",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Bespoke Marble Salad Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "RP4P1TTIAEPWMPYTJAIC1L8IW",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Kristin Deckow",
+      "email": "malvina52@gmail.com",
+      "phone": "+17487053443",
+      "city": "Port Henrietteton",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Rau - Runolfsson",
+      "role": "Product Operations Analyst",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 40,
+    "metaData": {
+      "googleFormId": "EXT-734",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "a513:68f8:f550:9ccc:7786:bd90:e503:eccf"
+    },
+    "timeline": {
+      "createdAt": "2025-08-31T03:26:49.611Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-068",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-626788",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Ergonomic Aluminum Cheese Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "VR6UFDEJGMBV6DZTVLEENP599",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Maggie Harris",
+      "email": "orin_swift@yahoo.com",
+      "phone": "+15012703748",
+      "city": "Halvorsoncester",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Tromp - Luettgen",
+      "role": "Global Intranet Officer",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 89,
+    "metaData": {
+      "googleFormId": "EXT-946",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "201.156.204.165"
+    },
+    "timeline": {
+      "createdAt": "2025-10-01T11:04:39.042Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-069",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-858281",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Electronic Ceramic Fish Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "GV6WQ2XM1KIJYWGHVOOPUN7P6",
+      "keyword": "affordable health insurance",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Stuart Johnson-Stokes DVM",
+      "email": "alayna.farrell-larkin@gmail.com",
+      "phone": "+15347909252",
+      "city": "Pagacfurt",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Streich, Mills and Howe",
+      "role": "Senior Creative Consultant",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 43,
+    "metaData": {
+      "googleFormId": "EXT-801",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "cae1:e64f:dfee:0bd7:7c5f:cddd:aa3c:6857"
+    },
+    "timeline": {
+      "createdAt": "2024-05-20T09:24:25.547Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-070",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-507208",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Sleek Steel Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "BI2D9TXYRSFXLP1DXQSAPIAX7",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Lela Schimmel Jr.",
+      "email": "karley22@yahoo.com",
+      "phone": "+13328600964",
+      "city": "Gwenburgh",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Gislason Group",
+      "role": "Chief Directives Director",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 74,
+    "metaData": {
+      "googleFormId": "EXT-615",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "233.255.124.45"
+    },
+    "timeline": {
+      "createdAt": "2024-02-18T17:30:17.943Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-071",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-284260",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Generic Metal Keyboard Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "IEDFCWIERCRIUKDT01XRIKPQM",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Leigh Bechtelar",
+      "email": "shanna17@yahoo.com",
+      "phone": "+17616996554",
+      "city": "Cronafurt",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Luettgen, Schuppe and Romaguera",
+      "role": "Internal Web Liaison",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 62,
+    "metaData": {
+      "googleFormId": "EXT-517",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "203.92.6.80"
+    },
+    "timeline": {
+      "createdAt": "2025-11-24T05:12:41.433Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-072",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-924785",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Sleek Ceramic Ball Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "RV2PK0HU6C69HGY5ZUZLLZTPE",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Stacy Prosacco",
+      "email": "nathan.purdy@gmail.com",
+      "phone": "+15425822696",
+      "city": "West Amberton",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Grimes Group",
+      "role": "Future Functionality Architect",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 32,
+    "metaData": {
+      "googleFormId": "EXT-171",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "d7b0:f68d:4ad0:be9f:4ff6:7420:f3b8:7565"
+    },
+    "timeline": {
+      "createdAt": "2024-08-31T09:32:58.149Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-073",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-978606",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Luxurious Granite Ball Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "72KFXD5EHSB7NUBEXQDAOXAJZ",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Alvin Wolff",
+      "email": "jensen98@yahoo.com",
+      "phone": "+17837055878",
+      "city": "Lake Lamarview",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Brown LLC",
+      "role": "Global Metrics Technician",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 37,
+    "metaData": {
+      "googleFormId": "EXT-127",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "16.28.86.207"
+    },
+    "timeline": {
+      "createdAt": "2025-09-13T00:52:47.882Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-074",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-878826",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Unbranded Aluminum Sausages Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "ECMCOM7DHYZ8HJ30FK8NNKR6O",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Nathan Gusikowski",
+      "email": "gordon.gleason@gmail.com",
+      "phone": "+13543659023",
+      "city": "North Kasey",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Gottlieb Inc",
+      "role": "Customer Infrastructure Representative",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 93,
+    "metaData": {
+      "googleFormId": "EXT-809",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "64.58.171.22"
+    },
+    "timeline": {
+      "createdAt": "2025-05-19T13:36:07.339Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-075",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-913504",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Oriental Metal Towels Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "ZIXGFH96ENPRSUGHKEXIXRCTP",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Troy Nikolaus",
+      "email": "valentina.weissnat@gmail.com",
+      "phone": "+17556698034",
+      "city": "Monahancester",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Pouros - Hansen",
+      "role": "Chief Marketing Director",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 31,
+    "metaData": {
+      "googleFormId": "EXT-409",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "27af:3088:a8d5:fba0:75db:4eb7:0ca3:c329"
+    },
+    "timeline": {
+      "createdAt": "2024-12-27T16:26:11.899Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-076",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-480146",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Practical Concrete Towels Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "Z9W1KLTIDWDYAGKTOYIU0H7JD",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Lucille Feest",
+      "email": "erwin0@yahoo.com",
+      "phone": "+17745826785",
+      "city": "East Haleighborough",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Hauck LLC",
+      "role": "Regional Paradigm Facilitator",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 97,
+    "metaData": {
+      "googleFormId": "EXT-153",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "237.137.107.221"
+    },
+    "timeline": {
+      "createdAt": "2025-02-01T08:18:55.827Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-077",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-508932",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Small Silk Car Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "E1HXVKSVTQ4ZGD7LIYNM71EFI",
+      "keyword": "best software for small business",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Antonia Kshlerin",
+      "email": "odie.romaguera@gmail.com",
+      "phone": "+18624593098",
+      "city": "Port Flavie",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Muller Inc",
+      "role": "Forward Intranet Producer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 45,
+    "metaData": {
+      "googleFormId": "EXT-401",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "b53d:bc8f:3d3c:fe3b:e9ff:c2bd:f7bb:8078"
+    },
+    "timeline": {
+      "createdAt": "2024-07-16T09:21:14.445Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-078",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-759620",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Recycled Granite Car Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "1FAJWUNH6TZGAFEVBCG2JSH38",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Darrel Botsford V",
+      "email": "alberto.ziemann@hotmail.com",
+      "phone": "+12328642328",
+      "city": "Lake Ruthefield",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Becker Group",
+      "role": "District Operations Administrator",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 36,
+    "metaData": {
+      "googleFormId": "EXT-554",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "88a7:f88f:ebbb:0af2:3cc2:d97a:f3bd:5b47"
+    },
+    "timeline": {
+      "createdAt": "2025-12-04T23:12:49.301Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-079",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-420337",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Fantastic Steel Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "FX31ZO6KRV7NU7TSTSYMHMWOI",
+      "keyword": "real estate dubai",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Joel Moore",
+      "email": "maegan96@yahoo.com",
+      "phone": "+15622946386",
+      "city": "Kerlukefurt",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Beier, Willms and Kautzer",
+      "role": "Dynamic Communications Technician",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 95,
+    "metaData": {
+      "googleFormId": "EXT-865",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "191.51.115.7"
+    },
+    "timeline": {
+      "createdAt": "2024-07-19T09:31:05.147Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-080",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-413935",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Frozen Concrete Sausages Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "SVICEGIYRV13A4UFF4VXQSROR",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Lester Goodwin",
+      "email": "catherine28@gmail.com",
+      "phone": "+16409604607",
+      "city": "Ocala",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Maggio - Farrell",
+      "role": "Chief Markets Agent",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 43,
+    "metaData": {
+      "googleFormId": "EXT-799",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "f84f:6482:8c97:091f:4fee:c569:c4a9:928a"
+    },
+    "timeline": {
+      "createdAt": "2025-12-07T21:53:41.385Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-081",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-500508",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Elegant Silk Table Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "MGJDN3PAJXRTPMQ6WGWMQGIVX",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Albert Mohr",
+      "email": "aubrey.thompson55@yahoo.com",
+      "phone": "+18479330687",
+      "city": "Cullenville",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Balistreri, Franecki and Lemke",
+      "role": "Direct Metrics Orchestrator",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 97,
+    "metaData": {
+      "googleFormId": "EXT-129",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "b5eb:ccaa:cc41:ddc0:fea2:1aec:7da5:7b73"
+    },
+    "timeline": {
+      "createdAt": "2025-10-08T19:28:10.483Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-082",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-114322",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Luxurious Rubber Computer Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "RRQNVGEQULRZHWKUDMOURDUE5",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Raymond Swift",
+      "email": "lucio.watsica@hotmail.com",
+      "phone": "+14299336058",
+      "city": "Lake Kaelyn",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Larkin - Nolan",
+      "role": "Chief Division Consultant",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 57,
+    "metaData": {
+      "googleFormId": "EXT-142",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "196.243.91.216"
+    },
+    "timeline": {
+      "createdAt": "2025-11-20T22:43:08.474Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-083",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-165637",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Intelligent Marble Chair Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "B43TD1FMYWO9RXHF80URBEXDZ",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Jerry Effertz",
+      "email": "angelita.wunsch@yahoo.com",
+      "phone": "+19819779783",
+      "city": "Adamstown",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Schaefer - Bergnaum",
+      "role": "Global Solutions Architect",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 84,
+    "metaData": {
+      "googleFormId": "EXT-550",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "f2dc:afb6:df90:0efb:749b:f87e:4f10:bef2"
+    },
+    "timeline": {
+      "createdAt": "2025-06-07T23:59:00.217Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-084",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-703512",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Soft Steel Mouse Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "NXXVJ8HW98RDY6QZZSIXMMNHJ",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Gerardo MacGyver",
+      "email": "ismael.gibson@hotmail.com",
+      "phone": "+18889478104",
+      "city": "Caliborough",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Klocko, Kris and Marvin",
+      "role": "Corporate Usability Planner",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 80,
+    "metaData": {
+      "googleFormId": "EXT-949",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "ed20:93df:0ee4:b7ad:95f2:ce5a:be3b:e890"
+    },
+    "timeline": {
+      "createdAt": "2024-04-09T14:02:38.976Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-085",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-320408",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Electronic Cotton Bike Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "TXZ0W7XLLITLRZIUSJOVLY71R",
+      "keyword": "best software for small business",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Derrick Sawayn",
+      "email": "zita96@gmail.com",
+      "phone": "+19025526472",
+      "city": "Port Urban",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Romaguera - Cummings",
+      "role": "District Intranet Officer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 62,
+    "metaData": {
+      "googleFormId": "EXT-171",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "195.80.165.248"
+    },
+    "timeline": {
+      "createdAt": "2024-12-31T08:29:53.346Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-086",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-851930",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Tasty Granite Pizza Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "INICW6VVNGRKI7F7DXWWYTOPM",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "George Simonis I",
+      "email": "elwyn.rohan56@hotmail.com",
+      "phone": "+12909963488",
+      "city": "Ilianachester",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Conroy, Vandervort and Kessler",
+      "role": "National Solutions Director",
+      "industry": "Insurance"
+    },
+    "leadStatus": "New",
+    "leadScore": 86,
+    "metaData": {
+      "googleFormId": "EXT-151",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "49.242.112.145"
+    },
+    "timeline": {
+      "createdAt": "2025-09-21T08:56:37.714Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-087",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-254778",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Fresh Bamboo Shirt Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "M7NTZDEHN1M1B5QOFWZ4BH0IY",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Ian West",
+      "email": "jaiden_donnelly43@hotmail.com",
+      "phone": "+18559379186",
+      "city": "East Sharon",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Hilpert, Wiegand and McKenzie",
+      "role": "Product Accounts Coordinator",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 58,
+    "metaData": {
+      "googleFormId": "EXT-561",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "9291:f193:fb7a:7f5a:1445:e8dd:7d2a:d0c5"
+    },
+    "timeline": {
+      "createdAt": "2025-07-08T10:54:30.685Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-088",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-381639",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Intelligent Granite Salad Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "NNYAF37GZB9PTGNEFENC6BK94",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Brandy Bruen PhD",
+      "email": "allene.tillman@gmail.com",
+      "phone": "+12086206658",
+      "city": "Leannonbury",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Anderson - Nader",
+      "role": "Central Creative Producer",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 64,
+    "metaData": {
+      "googleFormId": "EXT-856",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "d6bd:d5f0:7fad:edec:aa7b:eae1:eb0b:fd86"
+    },
+    "timeline": {
+      "createdAt": "2024-06-26T07:47:56.704Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-089",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-176899",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Unbranded Wooden Pizza Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "HH6XKVP2KAQJFCJIWXB3AWGJV",
+      "keyword": "affordable health insurance",
+      "matchType": "Phrase",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Miss Jana Willms",
+      "email": "godfrey40@gmail.com",
+      "phone": "+15505440270",
+      "city": "Lake Pearliebury",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Balistreri - Ortiz",
+      "role": "Lead Usability Coordinator",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 39,
+    "metaData": {
+      "googleFormId": "EXT-604",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "213.23.120.38"
+    },
+    "timeline": {
+      "createdAt": "2025-04-04T08:10:42.609Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-090",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-875157",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Frozen Metal Soap Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "RJ8O5R5VTIA7VQVEMTUB9IVAJ",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Virgil Schmeler",
+      "email": "laverne_dare@gmail.com",
+      "phone": "+17723462382",
+      "city": "Stratford",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Kreiger - Ward",
+      "role": "Principal Creative Coordinator",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 67,
+    "metaData": {
+      "googleFormId": "EXT-414",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "26.70.139.89"
+    },
+    "timeline": {
+      "createdAt": "2025-12-26T19:28:28.532Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-091",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-784303",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Frozen Wooden Cheese Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "GPYSLQFB7FLEKDDMSO3UA9PG6",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Nicholas Padberg",
+      "email": "isaiah.frami71@gmail.com",
+      "phone": "+16396213806",
+      "city": "Claraberg",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Rogahn - Greenfelder",
+      "role": "Global Communications Manager",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 42,
+    "metaData": {
+      "googleFormId": "EXT-640",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "12fd:f807:1d78:3a27:a9df:ebea:cd29:767c"
+    },
+    "timeline": {
+      "createdAt": "2024-12-01T01:18:39.394Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-092",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-179780",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Handcrafted Rubber Shoes Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "BX28MUWHH5BLGATH6O0EXLGY5",
+      "keyword": "real estate dubai",
+      "matchType": "Exact",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Amanda Hane",
+      "email": "samanta.rosenbaum3@gmail.com",
+      "phone": "+18956205702",
+      "city": "Cronamouth",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Lockman - Howe",
+      "role": "Direct Interactions Designer",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 30,
+    "metaData": {
+      "googleFormId": "EXT-872",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "274a:ae86:f1bf:b7a2:6dd8:6fdd:58c3:fee1"
+    },
+    "timeline": {
+      "createdAt": "2024-07-03T12:38:30.195Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-093",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-989407",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Fantastic Metal Chicken Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "M7QQHPPOPQHHXCTU7OPXRNT6L",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Otis Torphy",
+      "email": "catharine_hagenes@gmail.com",
+      "phone": "+14856954066",
+      "city": "Runolfsdottirhaven",
+      "country": "USA"
+    },
+    "businessInfo": {
+      "company": "Hane and Sons",
+      "role": "Customer Communications Orchestrator",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 70,
+    "metaData": {
+      "googleFormId": "EXT-581",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "88.84.82.193"
+    },
+    "timeline": {
+      "createdAt": "2024-01-24T15:47:06.451Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-094",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-943648",
+      "name": "Search | Legal Services | High Intent",
+      "adGroup": "Ergonomic Ceramic Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "MUOKZCYYCRDYYUYLFPBXBZ0G7",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Maryann Schaefer",
+      "email": "tod_hane@yahoo.com",
+      "phone": "+13525733269",
+      "city": "South Jody",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Prohaska, Kovacek and Cartwright",
+      "role": "Central Research Designer",
+      "industry": "SaaS"
+    },
+    "leadStatus": "New",
+    "leadScore": 46,
+    "metaData": {
+      "googleFormId": "EXT-314",
+      "platform": "Google",
+      "device": "Desktop",
+      "ipAddress": "caeb:c6ab:22f5:a425:edd9:d055:f1cc:6ef3"
+    },
+    "timeline": {
+      "createdAt": "2025-07-25T16:10:58.436Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-095",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-263744",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Tasty Ceramic Gloves Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "Q9BDOXXS60JTUIEJ7YNJIWYCM",
+      "keyword": "real estate dubai",
+      "matchType": "Phrase",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Willie Lind",
+      "email": "helmer_daugherty@hotmail.com",
+      "phone": "+16799008717",
+      "city": "Gerhardworth",
+      "country": "India"
+    },
+    "businessInfo": {
+      "company": "Hills, Raynor and Kuphal",
+      "role": "Internal Configuration Assistant",
+      "industry": "Legal Services"
+    },
+    "leadStatus": "New",
+    "leadScore": 63,
+    "metaData": {
+      "googleFormId": "EXT-106",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "3a08:cb7c:d195:d8b1:df85:0d60:5441:4aa8"
+    },
+    "timeline": {
+      "createdAt": "2024-11-12T13:36:08.728Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-096",
+    "source": "Google Ads",
+    "status": "staging",
+    "campaign": {
+      "id": "AW-493730",
+      "name": "Search | Education | High Intent",
+      "adGroup": "Soft Plastic Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "9WISYYASQESDOVYA0ZQXY3OTY",
+      "keyword": "affordable health insurance",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Steven Hayes",
+      "email": "orlo.rogahn90@yahoo.com",
+      "phone": "+13742308945",
+      "city": "Okunevacester",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Mertz - Heller",
+      "role": "Principal Metrics Developer",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 47,
+    "metaData": {
+      "googleFormId": "EXT-513",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "91.66.109.144"
+    },
+    "timeline": {
+      "createdAt": "2025-04-26T16:39:54.620Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-097",
+    "source": "Google Ads",
+    "status": "cancelled",
+    "campaign": {
+      "id": "AW-648418",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Generic Bamboo Hat Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "PHKEXPWZ3PGRZTQHKZXKH5ZFU",
+      "keyword": "best software for small business",
+      "matchType": "Exact",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Mr. Julius Rath",
+      "email": "ben.crooks@gmail.com",
+      "phone": "+14955477926",
+      "city": "Clintonstead",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Boyle - Rowe",
+      "role": "Dynamic Infrastructure Technician",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 48,
+    "metaData": {
+      "googleFormId": "EXT-550",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "41.39.187.214"
+    },
+    "timeline": {
+      "createdAt": "2025-11-04T18:50:15.071Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-098",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-901855",
+      "name": "Search | Insurance | High Intent",
+      "adGroup": "Recycled Steel Computer Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "CONVVD2SYYTX3RQ1XA6EJCKW9",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Search"
+    },
+    "leadInfo": {
+      "fullName": "Ms. Jasmine Wunsch",
+      "email": "agustin40@gmail.com",
+      "phone": "+17734513630",
+      "city": "Jeantown",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Gutmann and Sons",
+      "role": "District Security Engineer",
+      "industry": "Real Estate"
+    },
+    "leadStatus": "New",
+    "leadScore": 55,
+    "metaData": {
+      "googleFormId": "EXT-391",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "4c7d:84ff:eda2:99dc:df52:8ebd:402c:af1a"
+    },
+    "timeline": {
+      "createdAt": "2024-02-19T11:11:26.149Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-099",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-796776",
+      "name": "Search | SaaS | High Intent",
+      "adGroup": "Recycled Metal Bacon Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "SNU655VLZUVJ8AHNMDI95A2JQ",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "Display"
+    },
+    "leadInfo": {
+      "fullName": "Ada Hamill",
+      "email": "melvin71@hotmail.com",
+      "phone": "+15898544420",
+      "city": "South Eladiohaven",
+      "country": "UK"
+    },
+    "businessInfo": {
+      "company": "Ankunding Inc",
+      "role": "District Implementation Planner",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 49,
+    "metaData": {
+      "googleFormId": "EXT-772",
+      "platform": "Google",
+      "device": "Mobile",
+      "ipAddress": "102.109.171.47"
+    },
+    "timeline": {
+      "createdAt": "2025-05-01T17:01:07.797Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  },
+  {
+    "id": "GGL-LEAD-100",
+    "source": "Google Ads",
+    "status": "converted",
+    "campaign": {
+      "id": "AW-270586",
+      "name": "Search | Real Estate | High Intent",
+      "adGroup": "Modern Bronze Ball Keywords",
+      "adName": "Responsive Search Ad - Lead Form"
+    },
+    "attribution": {
+      "gclid": "TRHCBUJNCTFNLMAT2DSJBBAW0",
+      "keyword": "affordable health insurance",
+      "matchType": "Broad",
+      "network": "YouTube"
+    },
+    "leadInfo": {
+      "fullName": "Debbie O'Connell",
+      "email": "delphine_hilll38@hotmail.com",
+      "phone": "+12948737057",
+      "city": "Fort Milton",
+      "country": "Canada"
+    },
+    "businessInfo": {
+      "company": "Schaefer Group",
+      "role": "Dynamic Intranet Specialist",
+      "industry": "Education"
+    },
+    "leadStatus": "New",
+    "leadScore": 85,
+    "metaData": {
+      "googleFormId": "EXT-478",
+      "platform": "Google",
+      "device": "Tablet",
+      "ipAddress": "88.204.69.235"
+    },
+    "timeline": {
+      "createdAt": "2024-11-09T20:58:51.088Z",
+      "lastContactedAt": null
+    },
+    "owner": {
+      "assignedTo": "Sales Team Alpha"
+    }
+  }
+]
