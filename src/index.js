@@ -13,7 +13,7 @@ console.log("FRONTEND URI : ", frontend_uri)
 
 const PORT = 4000;
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0",() => {
   console.log("listening");
 });
 
